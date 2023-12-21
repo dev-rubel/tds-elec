@@ -1,0 +1,1097 @@
+{
+  "parties": {
+    "al": {
+      "key": "AL",
+      "name": "AL - Awami League",
+      "symbol": ""
+    },
+    "jp": {
+      "key": "JP",
+      "name": "JP - Jatiya Party",
+      "symbol": ""
+    },
+    "iab": {
+      "key": "IAB",
+      "name": "IAB - Islami Andolon Bangladesh",
+      "symbol": ""
+    },
+    "al_rebel": {
+      "key": "AL_REBEL",
+      "name": "AL REBEL - Awami League Rebel Candidates",
+      "symbol": ""
+    }
+  },
+  "candidates": {
+    "candiate_1": {
+      "key": "candiate_1",
+      "partie_key": "al",
+      "div_key": "dhaka",
+      "dis_key": "dhaka",
+      "photo": "http://google.com",
+      "affidabte": "",
+      "details": "",
+      "symbol": ""
+    },
+    "candiate_2": {
+      "key": "candiate_2",
+      "partie_key": "jp",
+      "div_key": "dhaka",
+      "dis_key": "dhaka",
+      "photo": "http://google.com",
+      "affidabte": "",
+      "details": "",
+      "symbol": ""
+    }
+  },
+  "divisions": {
+    "barishal": {
+      "key": "1",
+      "name": "Barishal",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "barguna",
+          "barishal",
+          "bhola",
+          "jhalokati",
+          "patuakhali",
+          "pirojpur"
+        ]
+      }
+    },
+    "chattogram": {
+      "key": "2",
+      "name": "Chattogram",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "bandarban",
+          "brahmanbaria",
+          "chandpur",
+          "chattogram",
+          "cumilla",
+          "coxs_bazar",
+          "feni",
+          "khagrachari",
+          "lakshmipur",
+          "noakhali",
+          "rangamati"
+        ]
+      }
+    },
+    "dhaka": {
+      "key": "3",
+      "name": "Dhaka",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "dhaka",
+          "faridpur",
+          "gazipur",
+          "gopalganj",
+          "kishoreganj",
+          "madaripur",
+          "manikganj",
+          "munshiganj",
+          "narayanganj",
+          "narsingdi",
+          "rajbari",
+          "shariatpur",
+          "tangail"
+        ]
+      }
+    },
+    "khulna": {
+      "key": "4",
+      "name": "Khulna",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "bagerhat",
+          "chuadanga",
+          "jashore",
+          "jhenaidah",
+          "khulna",
+          "kushtia",
+          "magura",
+          "meherpur",
+          "narail",
+          "satkhira"
+        ]
+      }
+    },
+    "rajshahi": {
+      "key": "5",
+      "name": "Rajshahi",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "bogura",
+          "joypurhat",
+          "naogaon",
+          "natore",
+          "nawabganj",
+          "pabna",
+          "rajshahi",
+          "sirajgonj"
+        ]
+      }
+    },
+    "rangpur": {
+      "key": "6",
+      "name": "Rangpur",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": [
+          "dinajpur",
+          "gaibandha",
+          "kurigram",
+          "lalmonirhat",
+          "nilphamari",
+          "panchagarh",
+          "rangpur",
+          "thakurgaon"
+        ]
+      }
+    },
+    "sylhet": {
+      "key": "7",
+      "name": "Sylhet",
+
+      "data": {
+        "svg_path": "https://google.com",
+        "districts": ["habiganj", "maulvibazar", "sunamganj", "sylhet"]
+      }
+    },
+    "mymensingh": {
+      "key": "8",
+      "name": "Mymensingh",
+
+      "data": {
+        "svg_path": "",
+        "districts": ["jamalpur", "mymensingh", "netrokona", "sherpur"]
+      }
+    }
+  },
+  "districts": {
+    "dhaka": {
+      "key": "1",
+      "div_id": "3",
+      "name": "Dhaka",
+
+      "data": {
+        "svg_path": "",
+        "seats": [
+          {
+            "key": "gazipur_1",
+            "name": "Gazipur Dhaka",
+            "short_des": "location1, location2, location3",
+            "seat_no": "130",
+            "candidates": [
+              {
+                "key": "candiate_1",
+                "vote_received": 2222
+              },
+              {
+                "key": "candiate_2",
+                "vote_received": 1111
+              }
+            ]
+          },
+          {
+            "key": "tangail_1",
+            "name": "Tangail",
+            "short_des": "location1, location2, location3",
+            "seat_no": "131",
+            "candidates": [
+              {
+                "key": "candiate_1",
+                "vote_received": 2222
+              }
+            ]
+          }
+        ],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "faridpur": {
+      "key": "2",
+      "div_id": "3",
+      "name": "Faridpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+
+    "gazipur": {
+      "key": "3",
+      "div_id": "3",
+      "name": "Gazipur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+
+    "gopalganj": {
+      "key": "4",
+      "div_id": "3",
+      "name": "Gopalganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "jamalpur": {
+      "key": "5",
+      "div_id": "8",
+      "name": "Jamalpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "kishoreganj": {
+      "key": "6",
+      "div_id": "3",
+      "name": "Kishoreganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "madaripur": {
+      "key": "7",
+      "div_id": "3",
+      "name": "Madaripur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "manikganj": {
+      "key": "8",
+      "div_id": "3",
+      "name": "Manikganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "munshiganj": {
+      "key": "9",
+      "div_id": "3",
+      "name": "Munshiganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "mymensingh": {
+      "key": "10",
+      "div_id": "8",
+      "name": "Mymensingh",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "narayanganj": {
+      "key": "11",
+      "div_id": "3",
+      "name": "Narayanganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "narsingdi": {
+      "key": "12",
+      "div_id": "3",
+      "name": "Narsingdi",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "netrokona": {
+      "key": "13",
+      "div_id": "8",
+      "name": "Netrokona",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "rajbari": {
+      "key": "14",
+      "div_id": "3",
+      "name": "Rajbari",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "shariatpur": {
+      "key": "15",
+      "div_id": "3",
+      "name": "Shariatpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "sherpur": {
+      "key": "16",
+      "div_id": "8",
+      "name": "Sherpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "tangail": {
+      "key": "17",
+      "div_id": "3",
+      "name": "Tangail",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "bogura": {
+      "key": "18",
+      "div_id": "5",
+      "name": "Bogura",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "joypurhat": {
+      "key": "19",
+      "div_id": "5",
+      "name": "Joypurhat",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "naogaon": {
+      "key": "20",
+      "div_id": "5",
+      "name": "Naogaon",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "natore": {
+      "key": "21",
+      "div_id": "5",
+      "name": "Natore",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "nawabganj": {
+      "key": "22",
+      "div_id": "5",
+      "name": "Nawabganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "pabna": {
+      "key": "23",
+      "div_id": "5",
+      "name": "Pabna",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "rajshahi": {
+      "key": "24",
+      "div_id": "5",
+      "name": "Rajshahi",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "sirajgonj": {
+      "key": "25",
+      "div_id": "5",
+      "name": "Sirajgonj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "dinajpur": {
+      "key": "26",
+      "div_id": "6",
+      "name": "Dinajpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "gaibandha": {
+      "key": "27",
+      "div_id": "6",
+      "name": "Gaibandha",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "kurigram": {
+      "key": "28",
+      "div_id": "6",
+      "name": "Kurigram",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "lalmonirhat": {
+      "key": "29",
+      "div_id": "6",
+      "name": "Lalmonirhat",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "nilphamari": {
+      "key": "30",
+      "div_id": "6",
+      "name": "Nilphamari",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "panchagarh": {
+      "key": "31",
+      "div_id": "6",
+      "name": "Panchagarh",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "rangpur": {
+      "key": "32",
+      "div_id": "6",
+      "name": "Rangpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "thakurgaon": {
+      "key": "33",
+      "div_id": "6",
+      "name": "Thakurgaon",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "barguna": {
+      "key": "34",
+      "div_id": "1",
+      "name": "Barguna",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "barishal": {
+      "key": "35",
+      "div_id": "1",
+      "name": "Barishal",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "bhola": {
+      "key": "36",
+      "div_id": "1",
+      "name": "Bhola",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "jhalokati": {
+      "key": "37",
+      "div_id": "1",
+      "name": "Jhalokati",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "patuakhali": {
+      "key": "38",
+      "div_id": "1",
+      "name": "Patuakhali",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "pirojpur": {
+      "key": "39",
+      "div_id": "1",
+      "name": "Pirojpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "bandarban": {
+      "key": "40",
+      "div_id": "2",
+      "name": "Bandarban",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "brahmanbaria": {
+      "key": "41",
+      "div_id": "2",
+      "name": "Brahmanbaria",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "chandpur": {
+      "key": "42",
+      "div_id": "2",
+      "name": "Chandpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "chattogram": {
+      "key": "43",
+      "div_id": "2",
+      "name": "Chattogram",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "cumilla": {
+      "key": "44",
+      "div_id": "2",
+      "name": "Cumilla",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "coxs_bazar": {
+      "key": "45",
+      "div_id": "2",
+      "name": "Cox's Bazar",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "feni": {
+      "key": "46",
+      "div_id": "2",
+      "name": "Feni",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "khagrachari": {
+      "key": "47",
+      "div_id": "2",
+      "name": "Khagrachari",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "lakshmipur": {
+      "key": "48",
+      "div_id": "2",
+      "name": "Lakshmipur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "noakhali": {
+      "key": "49",
+      "div_id": "2",
+      "name": "Noakhali",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "rangamati": {
+      "key": "50",
+      "div_id": "2",
+      "name": "Rangamati",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "habiganj": {
+      "key": "51",
+      "div_id": "7",
+      "name": "Habiganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "maulvibazar": {
+      "key": "52",
+      "div_id": "7",
+      "name": "Maulvibazar",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "sunamganj": {
+      "key": "53",
+      "div_id": "7",
+      "name": "Sunamganj",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "sylhet": {
+      "key": "54",
+      "div_id": "7",
+      "name": "Sylhet",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "bagerhat": {
+      "key": "55",
+      "div_id": "4",
+      "name": "Bagerhat",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "chuadanga": {
+      "key": "56",
+      "div_id": "4",
+      "name": "Chuadanga",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "jashore": {
+      "key": "57",
+      "div_id": "4",
+      "name": "Jashore",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "jhenaidah": {
+      "key": "58",
+      "div_id": "4",
+      "name": "Jhenaidah",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "khulna": {
+      "key": "59",
+      "div_id": "4",
+      "name": "Khulna",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "kushtia": {
+      "key": "60",
+      "div_id": "4",
+      "name": "Kushtia",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "magura": {
+      "key": "61",
+      "div_id": "4",
+      "name": "Magura",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "meherpur": {
+      "key": "62",
+      "div_id": "4",
+      "name": "Meherpur",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "narail": {
+      "key": "63",
+      "div_id": "4",
+      "name": "Narail",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    },
+    "satkhira": {
+      "key": "64",
+      "div_id": "4",
+      "name": "Satkhira",
+
+      "data": {
+        "svg_path": "",
+        "seats": [],
+        "voter": 1111,
+        "male_voter": 1111,
+        "female_voter": 1111
+      }
+    }
+  },
+  "total_count": [
+    {
+      "key": "total_voters",
+      "icon": "Icon",
+      "title": "Total Voters",
+      "count": "10,2555"
+    },
+    {
+      "key": "total_male_voters",
+      "icon": "Icon",
+      "title": "Total Male Voters",
+      "count": "1126385"
+    },
+    {
+      "key": "total_female_voters",
+      "icon": "Icon",
+      "title": "Total Female Voters",
+      "count": 125566
+    },
+    {
+      "key": "total_seats",
+      "icon": "Icon",
+      "title": "Total Seats",
+      "count": 125566
+    },
+    {
+      "key": "total_candidates",
+      "icon": "Icon",
+      "title": "Total Candidates",
+      "count": 125566
+    },
+    {
+      "key": "total_independents",
+      "icon": "Icon",
+      "title": "Total Independents",
+      "count": 125566
+    },
+    {
+      "key": "total_parties",
+      "icon": "Icon",
+      "title": "Total Parties",
+      "count": 125566
+    },
+    {
+      "key": "total_reserved_setes",
+      "icon": "Icon",
+      "title": "Total Reserved Setes",
+      "count": 125566
+    }
+  ]
+}

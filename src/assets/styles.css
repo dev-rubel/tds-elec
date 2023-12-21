@@ -1,0 +1,121 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* section 1 */
+.section1 {
+  margin-top: 15px;
+}
+.section1 .card-section.section1-top {
+  padding: 0;
+}
+.section1 .card-section.section1-top .icon {
+  display: flex;
+  align-items: center;
+  background-color: #46c6ff;
+}
+.section1 .card-section.section1-top .icon p {
+  text-align: center;
+  width: 100%;
+}
+.section1 .card-section.section1-top .text {
+  text-align: center;
+}
+.section1 .card-section.section1-top .text p:first-child {
+  font-size: 10px;
+  margin: 0;
+  margin-top: 15px;
+}
+
+/* section 2 */
+.section2 {
+  margin-top: 15px;
+}
+.section2 .section2-top {
+  width: 100%;
+  text-align: center;
+}
+.section2 .section2-bottom {
+  width: 100%;
+  text-align: center;
+}
+.section2 .section2-bottom p {
+  color: lightgray;
+  font-size: 23px;
+}
+.section2 .section2-bottom .medium-3 {
+  display: flex;
+  align-items: end;
+}
+.section2 .card-section.active {
+  background-color: #46c6ff;
+}
+.section2 a .card-section.active {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* section 3 */
+.section3 {
+  margin-top: 15px;
+}
+.section3 .left-section {
+  max-height: 620px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+.section3 .left-section p {
+  width: 100%;
+  text-align: center;
+}
+.section3 .right-bottom-section {
+  max-height: 100px;
+  margin-top: 20px;
+}
+.section3 .right-bottom-section .card-section {
+  padding: 0px;
+  padding-top: 6px;
+  padding-left: 6px;
+}
+.section3 .grid-margin-x.right-top-section {
+  max-height: 500px;
+  overflow: overlay;
+}
+.section3 .right-top-section .card p.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #46c6ff;
+}
+.section3 .right-top-section .details {
+  text-align: right;
+}
+.section3 .right-top-section .details a.details-link {
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+.section3 .parti-list .cell p {
+  border: 1px solid #46c6ff;
+  padding: 5px;
+  text-align: center;
+}
+.section3 .right-section {
+  max-height: 620px;
+}
+.section3 .right-section .right-top-section .card-section {
+  height: 280px;
+}
+.section3 .right-top-not-found .card-section {
+  display: flex;
+  align-items: center;
+}
+.section3 .right-top-not-found .card-section p {
+  text-align: center;
+  width: 100%;
+}
+.section3 p.right-bottom-not-found {
+  text-align: center;
+}/*# sourceMappingURL=styles.css.map */

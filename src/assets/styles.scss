@@ -1,0 +1,143 @@
+$color_1: lightgray;
+$color_2: #fff;
+$color_3: #46c6ff;
+$font-family_1: sans-serif;
+$background-color_1: #46c6ff;
+
+.App {
+	font-family: $font-family_1;
+	text-align: center;
+}
+
+/* section 1 */
+.section1 {
+	margin-top: 15px;
+	.card-section.section1-top {
+		padding: 0;
+		.icon {
+			display: flex;
+			align-items: center;
+			background-color: $background-color_1;
+			p {
+				text-align: center;
+				width: 100%;
+			}
+		}
+		.text {
+			text-align: center;
+			p {
+				&:first-child {
+					font-size: 10px;
+					margin: 0;
+					margin-top: 15px;
+				}
+			}
+		}
+	}
+}
+
+/* section 2 */
+.section2 {
+	margin-top: 15px;
+	.section2-top {
+		width: 100%;
+		text-align: center;
+	}
+	.section2-bottom {
+		width: 100%;
+		text-align: center;
+		p {
+			color: $color_1;
+			font-size: 23px;
+		}
+		.medium-3 {
+			display: flex;
+			align-items: end;
+		}
+	}
+	.card-section.active {
+		background-color: $background-color_1;
+	}
+	a {
+		.card-section.active {
+			text-decoration: none;
+			color: $color_2;
+			font-weight: bold;
+		}
+	}
+}
+
+/* section 3 */
+.section3 {
+	margin-top: 15px;
+	.left-section {
+		max-height: 620px;
+		display: flex;
+		align-items: center;
+		text-align: center;
+		border: 1px solid lightgray;
+		p {
+			width: 100%;
+			text-align: center;
+		}
+	}
+	.right-bottom-section {
+		max-height: 100px;
+		margin-top: 20px;
+		.card-section {
+			padding: 0px;
+			padding-top: 6px;
+			padding-left: 6px;
+		}
+	}
+	.grid-margin-x.right-top-section {
+		max-height: 500px;
+		overflow: overlay;
+	}
+	.right-top-section {
+		.card {
+			p.title {
+				font-size: 24px;
+				font-weight: bold;
+				color: $color_3;
+			}
+		}
+		.details {
+			a.details-link {
+				border: 1px solid lightgray;
+				padding: 5px;
+			}
+			text-align: right;
+		}
+	}
+	.parti-list {
+		.cell {
+			p {
+				border: 1px solid #46c6ff;
+				padding: 5px;
+				text-align: center;
+			}
+		}
+	}
+	.right-section {
+		max-height: 620px;
+		.right-top-section {
+			.card-section {
+				height: 280px;
+			}
+		}
+	}
+	.right-top-not-found {
+		.card-section {
+			display: flex;
+			align-items: center;
+			p {
+				text-align: center;
+				width: 100%;
+			}
+		}
+	}
+	p.right-bottom-not-found {
+		text-align: center;
+	}
+}
