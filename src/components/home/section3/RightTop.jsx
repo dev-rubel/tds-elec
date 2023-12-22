@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 export default function RightTop({ item, perties }) {
   return (
@@ -21,9 +22,7 @@ export default function RightTop({ item, perties }) {
             </div>
             <p className="description">{item.short_des}</p>
             <div className="details">
-              <a href="#" className="details-link">
-                Details
-              </a>
+              <Link to={`seat/1`} className="details-link">Details</Link>
             </div>
           </div>
         </div>

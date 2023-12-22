@@ -118,4 +118,78 @@
 }
 .section3 p.right-bottom-not-found {
   text-align: center;
+}
+
+/* Details Page */
+.candidates-section .card-section {
+  text-align: center;
+}
+.candidates-section .card-section .bottom p {
+  padding: 5px 0px;
+}
+.candidates-section .card-section .top p {
+  padding: 5px 0px;
+}
+.candidates-section p.candidate-title {
+  text-align: center;
+  margin: 25px 0px;
+  font-size: 35px;
+  font-weight: bold;
+}
+.candidates-section .card {
+  background-color: #FEF9F5;
+}
+
+.seatinfo .count_numbers {
+  height: 400px;
+}
+.seatinfo .parties {
+  height: 400px;
+  border: 1px solid #46c6ff;
+}
+.seatinfo .parties .partie-title {
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+.seatinfo .parties .each-partie {
+  border-top: 1px solid #46c6ff;
+  height: 65px;
+}
+.seatinfo .parties .each-partie .title {
+  margin: 0px !important;
+  padding: 0px 30px;
+}
+.seatinfo .parties .each-partie .medium-8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.seatinfo .map {
+  height: 400px;
+  border: 1px solid #46c6ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.seatinfo .map .medium-4 img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  max-height: 400px;
+}
+
+img.symbol-img {
+  max-width: 50px;
+}
+
+.count_numbers .card-section.section1-top {
+  background-color: #FEF9F5;
+  text-align: center;
+}
+.count_numbers .card-section.section1-top p {
+  padding: 0;
+  margin: 0;
 }/*# sourceMappingURL=styles.css.map */
