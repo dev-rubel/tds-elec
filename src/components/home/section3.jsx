@@ -4,7 +4,7 @@ import RightSection from "./section3/RightSection";
 export default function Section3() {
   return (
     <>
-      <div className="grid-x grid-margin-x section3">
+      <div className="grid-x grid-margin-x grid-margin-y section3">
         {/* left section */}
         <div className="cell small-12 medium-6 left-section">
           <MapSvg />
