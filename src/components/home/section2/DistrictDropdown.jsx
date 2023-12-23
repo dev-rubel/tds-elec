@@ -1,15 +1,15 @@
 import { useContext, useEffect, useState } from "react";
 import TdsContext from "./../../context/DefaultContext";
 
-export default function DistrictDropdown() {
+export default function DistrictDropdown() {  
   const { jsonData, selectedDivision, changeDistrict, selectedDistrict } =
     useContext(TdsContext);
   const [districts, setDistricts] = useState({});
   const [districtName, setDistrictName] = useState("");
 
   useEffect(() => {
-    if (selectedDivision.data !== undefined) {
-      setDistricts(selectedDivision.data.districts);
+    if (selectedDivision.districts !== undefined) {
+      setDistricts(selectedDivision.districts);
     }
   }, [selectedDivision]);
 

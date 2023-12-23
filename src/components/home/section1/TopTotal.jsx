@@ -2,7 +2,6 @@ export default function TopTotal({ item }) {
   return (
     <div
       className="cell medium-3 large-3 small-6"
-      style={{ paddingLeft: "3px" }}
     >
       <div className="card">
         <div className="card-section section1-top">

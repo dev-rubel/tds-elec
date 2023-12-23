@@ -9,6 +9,20 @@ $background-color_1: #46c6ff;
 	text-align: center;
 }
 
+/* Top Banner */
+.grid-x.top-banner {
+	background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://images.prothomalo.com/prothomalo/import/media/2018/11/08/00b3addd4a095868b073673608ad83d3-5be4478cd7c5d.png);
+	padding: 55px 0px;
+	margin: 10px 0px;
+
+	h1.title {
+		color: #fff;
+		font-size: 70px;
+		font-weight: bold;
+	}
+}
+
+
 /* section 1 */
 .section1 {
 	margin-top: 15px;
@@ -236,6 +250,7 @@ $background-color_1: #46c6ff;
 			.title {
 				margin: 0px !important;
 				padding: 0px 30px;
+				font-weight: bold;
 			}
 
 			.medium-8 {

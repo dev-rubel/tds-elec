@@ -1,5 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import TdsContext from "./../../context/DefaultContext";
+import { Link } from "react-router-dom";
 export default function DivisionEach({ item }) {
   const { changeDivision, selectedDivision } = useContext(TdsContext);
   const [activeDivision, setActiveDivision] = useState("");
@@ -18,11 +19,11 @@ export default function DivisionEach({ item }) {
     <>
       <div className="cell small-4 medium-auto">
         <div className="card">
-          <a href="#" onClick={() => changeDivision(item)}>
+          <Link to='/' onClick={() => changeDivision(item)}>
             <div className={"card-section " + activeDivision}>
               <p>{item.name}</p>
             </div>
-          </a>
+          </Link>
         </div>
       </div>
     </>

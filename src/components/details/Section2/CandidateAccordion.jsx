@@ -2,19 +2,20 @@ import React from 'react'
 import CandidateAccordionEach from './CandidateAccordionEach'
 
 
-function CandidateAccordion({id}) {
+function CandidateAccordion({id, item}) {
+	console.log(item);
 	return (
 		<div className="tab">
 			<input type="radio" name={"accordion"} id={"rd"+id} />
-			<label htmlFor={"rd"+id} className="tab__label">Accordion {id}</label>
+			<label htmlFor={"rd"+id} className="tab__label">{item.name}</label>
 			<div className="tab__content">
 
 				<div className="grid-x grid-margin-x">
-
-					<CandidateAccordionEach key={1}/>
-					<CandidateAccordionEach key={2}/>
-					<CandidateAccordionEach key={3}/>
-					<CandidateAccordionEach key={4}/>
+					{item.candidates.length > 0 && 
+						item.candidates.map((value, key) => {
+							return <CandidateAccordionEach key={key} candidate={value}/>
+						})
+					}
 
 				</div>
 

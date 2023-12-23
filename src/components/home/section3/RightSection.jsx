@@ -11,14 +11,14 @@ export default function RightSection() {
     setPerties([]);
   }, [selectedDistrict]);
 
-  const pertiesList = (item) => {
+  const majorPerties = (item) => {
     let tempPertie = [];
-    item.candidates.map((candi, kay) => {
+    Object.entries(item.candidates).map(([kay, candi]) => {
       if (jsonData.candidates[candi.key] !== undefined) {
-        let partie_key = jsonData.candidates[candi.key].partie_key;
-        let partie_key_key = jsonData.parties[partie_key].key;
-        tempPertie[partie_key_key] = partie_key_key;
-        parties[partie_key_key] = partie_key_key;
+        let candi_partie_key = jsonData.candidates[candi.key].partie_key;
+        let partie_key = jsonData.parties[candi_partie_key].key;
+        tempPertie[partie_key] = partie_key;
+        parties[partie_key] = partie_key;
       }
     });
     return tempPertie;
@@ -28,10 +28,10 @@ export default function RightSection() {
     <>
       {/* right top */}
       <div className="grid-x grid-margin-x right-top-section">
-        {selectedDistrict.data !== undefined &&
-          selectedDistrict.data.seats.length > 0 &&
-          selectedDistrict.data.seats.map((item, key) => {
-            let tempPertie = pertiesList(item);
+        {selectedDistrict.seats !== undefined &&
+          Object.keys(selectedDistrict.seats).length !== 0 &&
+          Object.entries(selectedDistrict.seats).map(([key, item]) => {
+            let tempPertie = majorPerties(item);
             return <RightTop item={item} perties={tempPertie} key={key} />;
           })}
 

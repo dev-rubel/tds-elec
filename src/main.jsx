@@ -1,34 +1,41 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { ContextProvider } from "./components/context/DefaultContext.jsx";
+/* Components */
+import Home from './components/home/Home.jsx';
+import Details from './components/details/Details.jsx';
+import Root from './components/layouts/Root.jsx';
+import ErrorPage from './components/error-page.jsx';
+/* CSS */
 import 'foundation-sites/dist/css/foundation.min.css';
 import "./assets/accordion.css";
 import "./assets/styles.css";
-import ErrorPage from './components/error-page.jsx';
+/* React Router */
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import Home from './components/home/Home.jsx';
-import Details from './components/details/Details.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    element: <Root />,
     errorElement: <ErrorPage />,
+    children: [
+      {
+        index: true,
+        element: <Home />
+      },
+      {
+        path: "/seat/:seatid",
+        element: <Details />
+      },
+    ],
   },
-  {
-    path: "/seat/:seatid",
-    element: <Details />,
-    errorElement: <ErrorPage />,
-  },
+  /* Other routes */
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <ContextProvider>      
-      <RouterProvider router={router} />
-    </ContextProvider>
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )

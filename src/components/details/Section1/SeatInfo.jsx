@@ -1,24 +1,25 @@
-import React from 'react'
+import React, { useContext, useEffect } from 'react'
 import Map from './Map'
 import Parties from './Parties'
 import CountNumbers from './CountNumbers'
+import DetailsContext from '../../context/DetailsContext';
 
 function SeatInfo() {
-  return (
-    <div className="grid-container seatinfo">
-        <div className="grid-x grid-margin-x grid-margin-y">
+    const { selectedSeat, majorPerties } = useContext(DetailsContext);
+    
+    return (
+        <div className="grid-x grid-margin-x grid-margin-y seatinfo">
             <div className="map cell medium-4 large-4 small-12" >
-                <Map />
+                <Map selectedSeat={selectedSeat} />
             </div>
             <div className="parties cell medium-4 large-4 small-12" >
-                <Parties />
+                <Parties selectedSeat={selectedSeat} />
             </div>
             <div className="count_numbers cell medium-4 large-4 small-12" >
-                <CountNumbers />
+                <CountNumbers selectedSeat={selectedSeat} />
             </div>
         </div>
-    </div>
-  )
+    )
 }
 
 export default SeatInfo

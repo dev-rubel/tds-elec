@@ -22,7 +22,7 @@ export default function RightTop({ item, perties }) {
             </div>
             <p className="description">{item.short_des}</p>
             <div className="details">
-              <Link to={`seat/1`} className="details-link">Details</Link>
+              <Link to={`seat/${item.key}`} className="details-link">Details</Link>
             </div>
           </div>
         </div>
