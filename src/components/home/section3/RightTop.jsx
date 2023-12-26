@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 export default function RightTop({ item, parties }) {
 
   const getPartieName = (name) => {
-    if(name.length > 3 && name.split(' ').length > 1) {
-      let tname = name.replaceAll('_',' '); 
+    let tname = name.replaceAll('_',' '); 
+    if(name.length > 3 && tname.split(' ').length > 1) {
       let matches = tname.match(/\b(\w)/g); // ['J','S','O','N']
       let acronym = matches.join(''); // JSON
       return acronym.toUpperCase();

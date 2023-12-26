@@ -4,14 +4,14 @@ export default function RightBottom({ parties }) {
   const { jsonData } = useContext(TdsContext);
 
   const getPartieName = (name) => {
-    if(name.length > 4 && name.split(' ').length > 1) { // string & word length
+    if(name.length > 3 && name.split(' ').length > 1) { // string & word length
       let tname = name.replaceAll('_',' '); 
       let matches = tname.match(/\b(\w)/g); // ['J','S','O','N']
       let acronym = matches.join(''); // JSON
       return name+' ('+acronym.toUpperCase()+')';
     }
     if(name.length > 3) {
-      return name+' ('+name.substring(0,3)+')'
+      return name+' ('+name.substring(0,3).toUpperCase()+')'
     }
     return name;
   }
