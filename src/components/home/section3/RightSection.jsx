@@ -5,23 +5,23 @@ import TdsContext from "./../../context/DefaultContext";
 import RightTopNotFound from "./RightTopNotFound";
 export default function RightSection() {
   const { jsonData, selectedDistrict } = useContext(TdsContext);
-  const [parties, setPerties] = useState([]);
+  const [parties, setParties] = useState([]);
 
   useEffect(() => {
-    setPerties([]);
+    setParties([]);
   }, [selectedDistrict]);
 
-  const majorPerties = (item) => {
-    let tempPertie = [];
-    Object.entries(item.candidates).map(([kay, candi]) => {
-      if (jsonData.candidates[candi.key] !== undefined) {
-        let candi_partie_key = jsonData.candidates[candi.key].partie_key;
-        let partie_key = jsonData.parties[candi_partie_key].key;
-        tempPertie[partie_key] = partie_key;
-        parties[partie_key] = partie_key;
+  const majorParties = (item) => {
+    let tempPetrie = [];
+    Object.entries(item.candidates).map(([kay, cadi]) => {
+      if (jsonData.candidates[cadi] !== undefined) {
+        let candidate_parte_key = jsonData.candidates[cadi].partie_key;
+        let parte_key = jsonData.parties[candidate_parte_key].key;
+        tempPetrie[parte_key] = parte_key;
+        parties[parte_key] = parte_key;
       }
     });
-    return tempPertie;
+    return tempPetrie;
   };
 
   return (
@@ -31,8 +31,8 @@ export default function RightSection() {
         {selectedDistrict.seats !== undefined &&
           Object.keys(selectedDistrict.seats).length !== 0 &&
           Object.entries(selectedDistrict.seats).map(([key, item]) => {
-            let tempPertie = majorPerties(item);
-            return <RightTop item={item} perties={tempPertie} key={key} />;
+            let tempParte = majorParties(item);
+            return <RightTop item={item} parties={tempParte} key={key} />;
           })}
 
         {/* right top not found */}

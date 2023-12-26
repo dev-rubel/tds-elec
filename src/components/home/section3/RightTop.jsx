@@ -1,7 +1,17 @@
 import { Link } from "react-router-dom";
 
-export default function RightTop({ item, perties }) {
-  return (
+export default function RightTop({ item, parties }) {
+
+  const getPartieName = (name) => {
+    if(name.length > 3 && name.split(' ').length > 1) {
+      let tname = name.replaceAll('_',' '); 
+      let matches = tname.match(/\b(\w)/g); // ['J','S','O','N']
+      let acronym = matches.join(''); // JSON
+      return acronym.toUpperCase();
+    }
+    return name.substring(0,3).toUpperCase();
+  }
+  return (    
     <>
       <div className="cell small-12 medium-6 offset-medium-2">
         <div className="card">
@@ -10,11 +20,11 @@ export default function RightTop({ item, perties }) {
             <p className="title">{item.name}</p>
             <div className="parti-list">
               <div className="grid-x grid-margin-x">
-                {Object.keys(perties).length !== 0 &&
-                  Object.entries(perties).map(([key, value]) => {
+                {Object.keys(parties).length !== 0 &&
+                  Object.entries(parties).map(([key, value]) => {
                     return (
-                      <div className="cell small-6 medium-auto" key={key}>
-                        <p>{value}</p>
+                      <div className="cell small-6 medium-4" key={key}>
+                        <p>{getPartieName(value)}</p>
                       </div>
                     );
                   })}

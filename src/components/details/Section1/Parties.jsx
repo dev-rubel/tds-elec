@@ -3,25 +3,26 @@ import PartieEach from './PartieEach'
 import TdsContext from '../../context/DefaultContext';
 
 function Parties({ selectedSeat }) {
-	const [parties, setPerties] = useState([]);
+	const [parties, setParties] = useState([]);
 	const { jsonData } = useContext(TdsContext);
 
-	const getPertie = (key) => {
-		let tempPertie = '';
+	const getPetrie = (key) => {
+		let tempPetrie = '';
 		if (jsonData.candidates[key] !== undefined) {
 			let candi_partie_key = jsonData.candidates[key].partie_key;
-			tempPertie = jsonData.parties[candi_partie_key];
+			tempPetrie = jsonData.parties[candi_partie_key];
 		}
-		return tempPertie;
+		return tempPetrie;
 	};
 
 	return (
 		<div>
 			<p className="partie-title">MAJOR PARTIES</p>
-			{selectedSeat.candidates !== undefined &&
+			{selectedSeat !== undefined &&
+				selectedSeat.candidates !== undefined &&
 				selectedSeat.candidates.map((value, key) => {
-					let partie = getPertie(value.key)
-					return <PartieEach key={key} item={partie} />
+					let parte = getPetrie(value)
+					return <PartieEach key={key} item={parte} />
 				})
 			}
 		</div>

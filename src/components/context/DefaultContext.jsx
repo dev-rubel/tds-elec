@@ -14,8 +14,8 @@ export const ContextProvider = ({ children }) => {
   const changeDivision = (item) => {
     // e.preventDefault();
     setSelectedDivision(item);
-    let defautlDis = allJsonData.districts[item.districts[0]]; // select first default
-    setSelectedDistrict(defautlDis);
+    let defaultDis = allJsonData.districts[item.districts[0]]; // select first default
+    setSelectedDistrict(defaultDis);
   };
 
 

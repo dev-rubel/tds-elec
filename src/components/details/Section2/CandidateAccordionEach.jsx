@@ -1,18 +1,18 @@
 import React, { useContext, useEffect, useState } from 'react'
-import partieSymbol from '/symbol.png'
+import parteSymbol from '/symbol.png'
 import candidateImg from '/candi.png'
 import TdsContext from '../../context/DefaultContext';
 
 function CandidateAccordionEach({candidate}) {
   const [candidateObj, setCandidateObj] = useState({})
-  const [candidatePartie, setCandidatePartie] = useState({})
+  const [candidateParte, setCandidateParte] = useState({})
   const { jsonData } = useContext(TdsContext);
 
   useEffect(() => {
-    let candiObj = jsonData.candidates[candidate.key]
-    let candiPartie = jsonData.parties[candiObj.partie_key]
-    setCandidateObj(candiObj)
-    setCandidatePartie(candiPartie)
+    let candidateObj = jsonData.candidates[candidate]
+    let candidateParte = jsonData.parties[candidateObj.partie_key]
+    setCandidateObj(candidateObj)
+    setCandidateParte(candidateParte)
   }, [candidate])
 
   return (
@@ -24,9 +24,9 @@ function CandidateAccordionEach({candidate}) {
             <img src={candidateImg.photo} className="candidate-img" alt={candidateImg.key} />
             <p className="candi-name">{candidateObj.name}</p>
             <p className="name">AL-led</p>
-            <p className="partie">{candidatePartie.name}</p>
-            <p className="symbol">{candidatePartie.symbol_name}</p>
-            <img src={candidatePartie.symbol} className="symbol-img" alt={candidatePartie.key} style={{ maxWidth: '100px' }} />
+            <p className="partie">{candidateParte.name}</p>
+            <p className="symbol">{candidateObj.symbol}</p>
+            <img src={candidateParte.symbol} className="symbol-img" alt={candidateParte.key} style={{ maxWidth: '100px' }} />
           </div>
           <div className="bottom">
             <hr />

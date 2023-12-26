@@ -18,6 +18,7 @@ function SeatInfo() {
             <div className="count_numbers cell medium-4 large-4 small-12" >
                 <CountNumbers selectedSeat={selectedSeat} />
             </div>
+            
         </div>
     )
 }

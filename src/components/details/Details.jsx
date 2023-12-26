@@ -1,4 +1,3 @@
-import { useContext, useEffect } from "react";
 import SeatInfo from "./Section1/SeatInfo";
 import Candidates from "./Section2/Candidates";
 import { DetailsContextProvider } from "../context/DetailsContext";
