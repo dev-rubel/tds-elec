@@ -3,7 +3,6 @@ import CandidateAccordionEach from './CandidateAccordionEach'
 
 
 function CandidateAccordion({id, item}) {
-	console.log(item);
 	return (
 		<div className="tab">
 			<input type="radio" name={"accordion"} id={"rd"+id} />
