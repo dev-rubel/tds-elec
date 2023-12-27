@@ -9,6 +9,7 @@ export const ContextProvider = ({ children }) => {
   const [jsonData, setJsonData] = useState({});
   const [selectedDivision, setSelectedDivision] = useState({});
   const [selectedDistrict, setSelectedDistrict] = useState({});
+  const [districts, setDistricts] = useState({});
   const [bannerTitle, setBannerTitle] = useState('')
 
   const changeDivision = (item) => {
@@ -25,12 +26,20 @@ export const ContextProvider = ({ children }) => {
       navigate(`/`);
     }
   };
+
+  // set default
   useEffect(() => {
     if (allJsonData) {
       setJsonData(allJsonData);
       changeDivision(allJsonData.divisions["dhaka"]);
     }
   }, [allJsonData]);
+
+  useEffect(() => {
+    if (selectedDivision.districts !== undefined) {
+      setDistricts(selectedDivision.districts);
+    }
+  }, [selectedDivision]);
 
   return (
     <TdsContext.Provider
@@ -39,8 +48,11 @@ export const ContextProvider = ({ children }) => {
         setJsonData,
         changeDivision,
         changeDistrict,
+        setSelectedDivision,
+        setSelectedDistrict,
         selectedDivision,
         selectedDistrict,
+        districts, setDistricts,
         bannerTitle, setBannerTitle
       }}
     >
