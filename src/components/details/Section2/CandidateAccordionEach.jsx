@@ -23,7 +23,7 @@ function CandidateAccordionEach({candidate}) {
           <div className="top">
             <img src={candidateImg.photo} className="candidate-img" alt={candidateImg.key} />
             <p className="candi-name">{candidateObj.name}</p>
-            <p className="name">AL-led</p>
+            {/* <p className="name">AL-led</p> */}
             <p className="partie">{candidateParte.name}</p>
             <p className="symbol">{candidateObj.symbol}</p>
             <img src={candidateParte.symbol} className="symbol-img" alt={candidateParte.key} style={{ maxWidth: '100px' }} />
