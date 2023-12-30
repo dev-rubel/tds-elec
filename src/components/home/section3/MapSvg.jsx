@@ -1,4 +1,4 @@
-import bangladeshMap from "/BanglaMap.svg";
+import bangladeshMap from "/bd-svg/main.svg";
 export default function MapSvg() {
   return (
     <>

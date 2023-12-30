@@ -33,7 +33,7 @@ export default function DistrictDropdown() {
                         districts.map((value, key) => {
                           return (
                             <option value={value} key={key}>
-                              {jsonData.districts[value].name !== undefined
+                              {jsonData.districts[value] !== undefined
                                 ? jsonData.districts[value].name
                                 : value}
                             </option>
