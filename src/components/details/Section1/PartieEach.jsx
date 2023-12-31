@@ -1,5 +1,4 @@
 import React from 'react'
-import partieSymbol from '/symbol.png'
 
 function PartieEach({item, candidateSymbol}) {
 	const {key, name, symbol} = item

@@ -1,6 +1,4 @@
 import React, { useContext, useEffect, useState } from 'react'
-import parteSymbol from '/symbol.png'
-import candidateImg from '/candi.png'
 import TdsContext from '../../context/DefaultContext';
 
 function CandidateAccordionEach({candidate}) {
@@ -21,7 +19,7 @@ function CandidateAccordionEach({candidate}) {
       <div className="card">
         <div className="card-section">
           <div className="top">
-            <img src={candidateImg.photo} className="candidate-img" alt={candidateImg.key} />
+            <img src={''} className="candidate-img" alt={''} />
             <p className="candi-name">{candidateObj.name}</p>
             {/* <p className="name">AL-led</p> */}
             <p className="partie">{candidateParte.name}</p>
