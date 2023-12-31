@@ -12,6 +12,7 @@
 .grid-x.top-banner h1.title {
   color: #fff;
   font-size: 70px;
+  font-size: 6.5vw;
   font-weight: bold;
 }
 
@@ -25,7 +26,7 @@
 .section1 .card-section.section1-top .icon {
   display: flex;
   align-items: center;
-  background-color: #46c6ff;
+  background-color: #F6F6F6;
 }
 .section1 .card-section.section1-top .icon p {
   text-align: center;
@@ -191,8 +192,12 @@
 }
 .seatinfo .parties .each-partie .medium-8 {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
+  text-align: left;
+}
+.seatinfo .parties .each-partie .medium-4 img {
+  height: auto !important;
 }
 .seatinfo .map {
   min-height: 400px;
@@ -203,20 +208,32 @@
 }
 .seatinfo .map .medium-4 img {
   max-width: 100%;
-  height: auto;
+  height: auto !important;
   display: block;
   max-height: 400px;
 }
 
 img.symbol-img {
   max-width: 50px;
+  height: 100px;
+  mix-blend-mode: multiply;
 }
 
 .count_numbers .card-section.section1-top {
   background-color: #FEF9F5;
   text-align: center;
+  border: 1px solid lightgray;
+}
+.count_numbers .card-section.section1-top img {
+  max-width: 70px;
+  height: auto;
+  mix-blend-mode: multiply;
 }
 .count_numbers .card-section.section1-top p {
   padding: 0;
   margin: 0;
+}
+
+polygon:hover, path:hover, polyline:hover {
+  fill: #46c6ff;
 }/*# sourceMappingURL=styles.css.map */

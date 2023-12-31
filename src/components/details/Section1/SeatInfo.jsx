@@ -5,12 +5,12 @@ import CountNumbers from './CountNumbers'
 import DetailsContext from '../../context/DetailsContext';
 
 function SeatInfo() {
-    const { selectedSeat, majorPerties } = useContext(DetailsContext);
+    const { selectedSeat, mapSrc } = useContext(DetailsContext);
     
     return (
         <div className="grid-x grid-margin-x grid-margin-y seatinfo">
             <div className="map cell medium-4 large-4 small-12" >
-                <Map selectedSeat={selectedSeat} />
+                <Map selectedSeat={selectedSeat} mapSrc={mapSrc} />
             </div>
             <div className="parties cell medium-4 large-4 small-12" >
                 <Parties selectedSeat={selectedSeat} />

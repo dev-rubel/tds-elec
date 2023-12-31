@@ -6,7 +6,7 @@ function CountNumberEach({icon, count, label}) {
 			<div className="card-section section1-top">
 				<section className="grid-x">
 					<div className="cell medium-4 icon">
-						<p>{icon}</p>
+						<img src={icon} alt={label} />
 					</div>
 					<div className="cell medium-8 text">
 						<p>{label}</p>

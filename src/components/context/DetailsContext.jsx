@@ -7,6 +7,8 @@ export default DetailsContext;
 export const DetailsContextProvider = ({ children }) => {
   const location = useLocation();
   const [selectedSeat, setSelectedSeat] = useState('')
+  const [mapSrc, setMapSrc] = useState('')
+
   const { jsonData, setBannerTitle, setSelectedDistrict, setSelectedDivision } = useContext(TdsContext);
 
   // get district from seat key
@@ -30,11 +32,14 @@ export const DetailsContextProvider = ({ children }) => {
     return selected
   }
 
-  useEffect(() => {       
+  useEffect(() => {
     if(Object.keys(jsonData).length > 0) {      
       let urlSegment = location.pathname.split("/").pop();
       let district = getDistrict(urlSegment)
       let division = getDivision(district.key)
+
+      let map = `/bd-svg/${division.name.toLowerCase()}/dist-${district.key.toLowerCase()}.svg`
+      setMapSrc(map)
       
       let selectedSeat = district.seats[urlSegment];
       setSelectedDivision(division)
@@ -49,7 +54,8 @@ export const DetailsContextProvider = ({ children }) => {
   return (
     <DetailsContext.Provider
       value={{
-        selectedSeat, setSelectedSeat
+        selectedSeat, setSelectedSeat,
+        mapSrc, setMapSrc
       }}
     >
       {children}

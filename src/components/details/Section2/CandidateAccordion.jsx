@@ -5,7 +5,7 @@ import CandidateAccordionEach from './CandidateAccordionEach'
 function CandidateAccordion({id, item}) {
 	return (
 		<div className="tab">
-			<input type="radio" name={"accordion"} id={"rd"+id} />
+			<input type="radio" name={"accordion"} id={"rd"+id} defaultChecked/>
 			<label htmlFor={"rd"+id} className="tab__label">{item.name}</label>
 			<div className="tab__content">
 

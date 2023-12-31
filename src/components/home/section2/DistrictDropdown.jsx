@@ -7,10 +7,10 @@ export default function DistrictDropdown() {
   } = useContext(TdsContext);
   
   const [districtName, setDistrictName] = useState("");  
-
+  
   useEffect(() => {
-    if (selectedDistrict.name !== undefined) {
-      setDistrictName(selectedDistrict.name.toLowerCase());
+    if (selectedDistrict.key !== undefined) {
+      setDistrictName(selectedDistrict.key.toLowerCase());
     }
   }, [selectedDistrict]);
 

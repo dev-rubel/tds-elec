@@ -26,9 +26,15 @@ function CandidateAccordionEach({candidate}) {
             {/* <p className="name">AL-led</p> */}
             <p className="partie">{candidateParte.name}</p>
             <p className="symbol">{candidateObj.symbol}</p>
-            <img src={candidateParte.symbol} className="symbol-img" alt={candidateParte.key} style={{ maxWidth: '100px' }} />
+            <img 
+              src={candidateObj.photo} 
+              className="symbol-img" 
+              style={{ maxWidth: '100px' }} 
+              alt={candidateParte.key} 
+              onError={(e) => e.target.style.visibility='hidden' } 
+            />
           </div>
-          <div className="bottom">
+          <div className="bottom hide">
             <hr />
             <p className="result">Result:</p>
             <p className="voat_ount">Vote: 1111</p>

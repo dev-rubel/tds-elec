@@ -16,7 +16,7 @@ export default function RightTop({ item, parties }) {
       <div className="cell small-12 medium-6 offset-medium-2">
         <div className="card">
           <div className="card-section">
-            <p className="seat-no">Seat no. {item.seat_no}</p>
+            <p className="seat-no hide">Seat no. {item.seat_no}</p>
             <p className="title">{item.name}</p>
             <div className="parti-list">
               <div className="grid-x grid-margin-x">
@@ -30,7 +30,7 @@ export default function RightTop({ item, parties }) {
                   })}
               </div>
             </div>
-            <p className="description">{item.short_des}</p>
+            <p className="description hide">{item.short_des}</p>
             <div className="details">
               <Link to={`seat/${item.key}`} className="details-link">Details</Link>
             </div>

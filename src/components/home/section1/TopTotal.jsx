@@ -7,7 +7,7 @@ export default function TopTotal({ item }) {
         <div className="card-section section1-top">
           <section className="grid-x">
             <div className="cell medium-4 icon">
-              <p>{item.icon}</p>
+              <img src={item.icon} alt={item.title} />
             </div>
             <div className="cell medium-8 text">
               <p>{item.title}</p>
