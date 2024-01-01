@@ -38,7 +38,7 @@ export const DetailsContextProvider = ({ children }) => {
       let district = getDistrict(urlSegment)
       let division = getDivision(district.key)
 
-      let map = `/bd-svg/${division.name.toLowerCase()}/dist-${district.key.toLowerCase()}.svg`
+      let map = `/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/${division.name.toLowerCase()}/dist-${district.key.toLowerCase()}.svg`
       setMapSrc(map)
       
       let selectedSeat = district.seats[urlSegment];
