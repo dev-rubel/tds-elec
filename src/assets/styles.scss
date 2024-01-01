@@ -5,6 +5,10 @@ $font-family_1: sans-serif;
 $background-color_1: #46c6ff;
 $background-color_2: #F6F6F6;
 
+div#root{
+	padding: 40px 0px;
+}
+
 .App {
 	font-family: $font-family_1;
 	text-align: center;
@@ -112,13 +116,15 @@ $background-color_2: #F6F6F6;
 	}
 
 	.right-bottom-section {
-		max-height: 100px;
+		// max-height: 100px;
 		margin-top: 20px;
+		font-size: 13px;
 
 		.card-section {
 			padding: 0px;
-			padding-top: 6px;
-			padding-left: 6px;
+			padding-top: 15px;
+			padding-left: 15px;
+			padding-bottom: 15px;
 		}
 	}
 
@@ -227,6 +233,8 @@ $background-color_2: #F6F6F6;
 }
 
 .seatinfo {
+	margin-top: 15px;
+	
 	.count_numbers {
 		height: 400px;
 	}

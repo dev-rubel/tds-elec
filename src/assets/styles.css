@@ -1,3 +1,7 @@
+div#root {
+  padding: 40px 0px;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
@@ -86,13 +90,14 @@
   text-align: center;
 }
 .section3 .right-bottom-section {
-  max-height: 100px;
   margin-top: 20px;
+  font-size: 13px;
 }
 .section3 .right-bottom-section .card-section {
   padding: 0px;
-  padding-top: 6px;
-  padding-left: 6px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
 }
 .section3 .grid-margin-x.right-top-section {
   max-height: 500px;
@@ -162,6 +167,9 @@
   background-color: #FEF9F5;
 }
 
+.seatinfo {
+  margin-top: 15px;
+}
 .seatinfo .count_numbers {
   height: 400px;
 }
