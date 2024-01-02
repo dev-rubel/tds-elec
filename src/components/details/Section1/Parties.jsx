@@ -22,8 +22,8 @@ function Parties({ selectedSeat }) {
 				selectedSeat.candidates !== undefined &&
 				selectedSeat.candidates.map((value, key) => {
 					let parte = getPetrie(value)
-					let symbol = jsonData.candidates[value].photo
-					return <PartieEach key={key} item={parte} candidateSymbol={symbol} />
+					let candidate = jsonData.candidates[value]
+					return <PartieEach key={key} item={parte} candidate={candidate} />
 				})
 			}
 		</div>

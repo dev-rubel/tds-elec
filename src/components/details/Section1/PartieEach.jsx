@@ -1,6 +1,6 @@
 import React from 'react'
 
-function PartieEach({item, candidateSymbol}) {
+function PartieEach({item, candidate}) {
 	const {key, name, symbol} = item
 	return (
 		<div className="each-partie">
@@ -11,7 +11,12 @@ function PartieEach({item, candidateSymbol}) {
 					</p>
 				</div>
 				<div className="cell medium-4 small-12 ">
-					<img src={candidateSymbol} alt={name} className="symbol-img" onError={(e) => e.target.style.visibility='hidden' }  />
+					<img src={candidate.photo} alt={name} className="symbol-img" onError={(e) => {
+						e.target.style.visibility='hidden'
+						let ele = document.getElementById(`party-symbol-name-${candidate.key}`)
+						ele.classList.remove('hide')
+					}} />
+					<span className="party-symbol-name hide" id={`party-symbol-name-${candidate.key}`}>{candidate.symbol}</span>
 				</div>
 			</div>
 		</div>
