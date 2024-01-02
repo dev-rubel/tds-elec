@@ -1,8 +1,11 @@
-import {useRef, useState, useEffect, useContext} from 'react';
+import {useRef, useState, useEffect} from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
 import {INITIAL_VALUE, ReactSVGPanZoom, TOOL_NONE, POSITION_RIGHT, POSITION_BOTTOM} from 'react-svg-pan-zoom';
 import {ReactSvgPanZoomLoader} from 'react-svg-pan-zoom-loader'
 
-function Map({selectedSeat, mapSrc}) {
+function Map({selectedSeat, mapSrc, divid}) {
+  const location = useLocation();
+
   const Viewer = useRef(null);
   const [tool, setTool] = useState(TOOL_NONE)
   const [value, setValue] = useState(INITIAL_VALUE) 
@@ -19,9 +22,10 @@ function Map({selectedSeat, mapSrc}) {
 
   useEffect(() => {
     setTimeout(() => {      
-      if(mapSrc.length > 0 && Object.keys(selectedSeat).length > 0) {
-        let seatid = selectedSeat.name.toLowerCase()
-        seatid = seatid.replaceAll("cox's bazar", "cox_s_bazar"); // only for coxs bazar
+      let urlSegment = location.pathname.split("/").pop();
+      let urlExpload = urlSegment.split(/\_(?=[^\_]+$)/)      
+      if(mapSrc.length > 0 && urlExpload[0].length > 0) {        
+        let seatid = urlExpload[0]+(urlExpload[1] !== undefined ? '-'+urlExpload[1] : '');
         let seatdom = document.getElementById(seatid)
         if (seatdom) {
           seatdom.childrens('polygon','fill','tomato');
@@ -30,11 +34,11 @@ function Map({selectedSeat, mapSrc}) {
         }  
       }
     }, 1000);
-  }, [selectedSeat, mapSrc])
+  }, [selectedSeat, mapSrc, location])
   
   
   return (
-    <>
+    <div id={divid}>
       {mapSrc.length > 0 &&     
         <ReactSvgPanZoomLoader src={mapSrc} render= {(content) => (
           <ReactSVGPanZoom
@@ -44,7 +48,14 @@ function Map({selectedSeat, mapSrc}) {
               value={value} onChangeValue={setValue}
               detectAutoPan={false}
               toolbarProps={{position: POSITION_RIGHT}}
-              onClick={event => console.log('click', event.originalEvent, event.originalEvent.target.parentElement.id)}
+              onClick={event => {
+                // console.log('click', event.originalEvent, event.originalEvent.target.parentElement.id)
+                let seat = event.originalEvent.target.parentElement.id
+                let seatid = seat.toLowerCase()
+                seatid = seatid.replaceAll("-", "_"); // only for coxs bazar
+                seatid = seatid.replaceAll("cox's bazar", "cox_s_bazar"); // only for coxs bazar
+                // navigate(`/seat/${seatid}`)
+              }}
             >
             <svg width={360} height={500}>
               {content}
@@ -52,7 +63,7 @@ function Map({selectedSeat, mapSrc}) {
           </ReactSVGPanZoom>
         )} />
       }
-    </>
+    </div>
   )
 }
 

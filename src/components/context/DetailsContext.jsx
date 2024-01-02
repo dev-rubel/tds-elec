@@ -5,11 +5,11 @@ const DetailsContext = createContext();
 export default DetailsContext;
 
 export const DetailsContextProvider = ({ children }) => {
-  const location = useLocation();
-  const [selectedSeat, setSelectedSeat] = useState('')
+  const location = useLocation();  
   const [mapSrc, setMapSrc] = useState('')
+  const [mapSrcId, setMapSrcId] = useState('')
 
-  const { jsonData, setBannerTitle, setSelectedDistrict, setSelectedDivision } = useContext(TdsContext);
+  const { jsonData, setBannerTitle, setSelectedDistrict, setSelectedDivision, selectedSeat, setSelectedSeat } = useContext(TdsContext);
 
   // get district from seat key
   const getDistrict = (seatKey) => {
@@ -38,8 +38,9 @@ export const DetailsContextProvider = ({ children }) => {
       let district = getDistrict(urlSegment)
       let division = getDivision(district.key)
 
-      let map = `/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/${division.name.toLowerCase()}/dist-${district.key.toLowerCase()}.svg`
+      let map = `/bd-svg/${division.name.toLowerCase()}/dist-${district.key.toLowerCase()}.svg`
       setMapSrc(map)
+      setMapSrcId(urlSegment)
       
       let selectedSeat = district.seats[urlSegment];
       setSelectedDivision(division)
@@ -47,7 +48,7 @@ export const DetailsContextProvider = ({ children }) => {
       setBannerTitle(selectedSeat.name);
       setSelectedSeat(selectedSeat)
     }
-  }, [jsonData])
+  }, [jsonData, location])
 
  
 
@@ -55,7 +56,8 @@ export const DetailsContextProvider = ({ children }) => {
     <DetailsContext.Provider
       value={{
         selectedSeat, setSelectedSeat,
-        mapSrc, setMapSrc
+        mapSrc, setMapSrc,
+        mapSrcId, setMapSrcId
       }}
     >
       {children}
