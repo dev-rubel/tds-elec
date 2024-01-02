@@ -79,16 +79,24 @@ div#root {
   margin-top: 15px;
 }
 .section3 .left-section {
-  max-height: 620px;
+  /* max-height: 620px;
   display: flex;
   align-items: center;
   text-align: center;
-  border: 1px solid lightgray;
+  border: 1px solid lightgray; */
+  max-height: max-content;
 }
 .section3 .left-section p {
   width: 100%;
   text-align: center;
 }
+
+@media only screen and (max-width: 767px) {
+  .section3 .left-section iframe {
+    height: 800px !important;
+  }
+}
+
 .section3 .right-bottom-section {
   margin-top: 20px;
   font-size: 13px;
