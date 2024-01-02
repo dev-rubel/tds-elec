@@ -25711,49 +25711,25 @@
       "key": "total_voters",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_voters.png",
       "title": "Total Voters",
-      "count": "10,2555"
-    },
-    {
-      "key": "total_male_voters",
-      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/male_voter.png",
-      "title": "Total Male Voters",
-      "count": "1126385"
-    },
-    {
-      "key": "total_female_voters",
-      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/female_voter.png",
-      "title": "Total Female Voters",
-      "count": 125566
+      "count": "11,96,91,633"
     },
     {
       "key": "total_seats",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/seats.png",
       "title": "Total Seats",
-      "count": 125566
+      "count": "300"
     },
     {
       "key": "total_candidates",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_candi.png",
       "title": "Total Candidates",
-      "count": 125566
-    },
-    {
-      "key": "total_independents",
-      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/indipendents.png",
-      "title": "Total Independents",
-      "count": 125566
+      "count": "1,895"
     },
     {
       "key": "total_parties",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/parties.png",
       "title": "Total Parties",
-      "count": 125566
-    },
-    {
-      "key": "total_reserved_setes",
-      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/reserve_seats.png",
-      "title": "Total Reserved Setes",
-      "count": 125566
+      "count": "27"
     }
   ]
 }
