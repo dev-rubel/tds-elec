@@ -2,6 +2,9 @@
 	font-family: sans-serif;
 	text-align: center;
 }
+div#root {
+	min-height: 115rem;
+}
 .grid-x {
 	&.top-banner {    
 		h1 {
