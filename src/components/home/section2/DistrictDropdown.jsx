@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 
 export default function DistrictDropdown() {
   let navigate = useNavigate();
-  const [districtName, setDistrictName] = useState("");  
+  const [districtName, setDistrictName] = useState("");
   const {
     jsonData, changeDistrict, selectedDistrict, districts, seatList, onDetailPage, selectedSeat
   } = useContext(TdsContext);
@@ -18,7 +18,7 @@ export default function DistrictDropdown() {
   const changeSeat = (value) => {
     if(value.length > 0) {
       navigate(`seat/${value}`)
-    }    
+    }
   }
 
   return (
@@ -27,7 +27,7 @@ export default function DistrictDropdown() {
       <div className="dropdown-section">
         <form>
           <div className="grid-x grid-margin-x grid-margin-y">
-            <div className={`medium-offset-4 medium-7 cell`}>
+            <div className={`medium-offset-3 medium-7 cell`}>
               <div className="grid-x grid-margin-x grid-margin-y">
                 <div className="medium-7 cell">
                   <label>

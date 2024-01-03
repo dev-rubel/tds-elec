@@ -130,6 +130,29 @@
   text-align: center;
 }
 
+/* TIPS */
+
+.tip-info {
+  background: #FEF9F5;
+  padding: 1rem;
+}
+
+.tip-info p {
+  text-align: left !important;
+}
+
+.tip-info h4 {
+  font-weight: bold;
+  line-height: normal;
+}
+
+.tip-info p span {
+  color: #25bcff;
+  font-weight: bold;
+}
+
+/* TIPS */
+
 .candidates-section .card-section {
   text-align: center;
 }
