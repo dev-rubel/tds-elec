@@ -3,18 +3,31 @@
 	text-align: center;
 }
 .grid-x {
-	&.top-banner {
-		background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://images.prothomalo.com/prothomalo/import/media/2018/11/08/00b3addd4a095868b073673608ad83d3-5be4478cd7c5d.png);
-		padding: 55px 0px;
-		margin: 10px 0px;
+	&.top-banner {    
 		h1 {
 			&.title {
 				color: #fff;
 				font-size: 70px;
-				font-size: 6.5vw;
+				font-size: 4.5vw;
 				font-weight: bold;
 			}
 		}
+	}
+	&.banner-img-1 {
+		background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://online.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
+		padding: 0px 0px;
+    margin: 10px 0px;
+    background-repeat: no-repeat !important;
+    background-position: left !important;
+    min-height: 130px;
+	}
+	&.banner-img-2 {
+		background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/distric-bg.png);
+		padding: 0px 0px;
+    margin: 10px 0px;
+    background-repeat: no-repeat !important;
+    background-position: left !important;
+    min-height: 130px;
 	}
 }
 .section1 {

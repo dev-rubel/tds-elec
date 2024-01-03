@@ -19271,7 +19271,7 @@
         "joypurhat",
         "naogaon",
         "natore",
-        "chipainawabganj",
+        "chapainawabganj",
         "pabna",
         "rajshahi",
         "sirajganj"
@@ -22264,9 +22264,9 @@
         }
       }
     },
-    "chipainawabganj": {
-      "key": "chipainawabganj",
-      "name": "Chipainawabganj",
+    "chapainawabganj": {
+      "key": "chapainawabganj",
+      "name": "Chapainawabganj",
       "svg_path": "",
       "voter": 11111,
       "male_voter": 11111,
@@ -22274,7 +22274,7 @@
       "seats": {
         "chipainawabganj_1": {
           "key": "chipainawabganj_1",
-          "name": "Chipainawabganj-1",
+          "name": "Chapainawabganj-1",
           "seat_no": "",
           "voter": 1111,
           "male_voter": 1111,
@@ -22293,7 +22293,7 @@
         },
         "chipainawabganj_2": {
           "key": "chipainawabganj_2",
-          "name": "Chipainawabganj-2",
+          "name": "Chapainawabganj-2",
           "seat_no": "",
           "voter": 1111,
           "male_voter": 1111,
@@ -22310,7 +22310,7 @@
         },
         "chipainawabganj_3": {
           "key": "chipainawabganj_3",
-          "name": "Chipainawabganj-3",
+          "name": "Chapainawabganj-3",
           "seat_no": "",
           "voter": 1111,
           "male_voter": 1111,
@@ -25462,25 +25462,25 @@
   "total_count": [
     {
       "key": "total_voters",
-      "icon": "/top-total-section/total_voters.png",
+      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_voters.png",
       "title": "Total Voters",
       "count": "11,96,91,633"
     },
     {
       "key": "total_seats",
-      "icon": "/top-total-section/seats.png",
+      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/seats.png",
       "title": "Total Seats",
       "count": "300"
     },
     {
       "key": "total_candidates",
-      "icon": "/top-total-section/total_candi.png",
+      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_candi.png",
       "title": "Total Candidates",
       "count": "1,895"
     },
     {
       "key": "total_parties",
-      "icon": "/top-total-section/parties.png",
+      "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/parties.png",
       "title": "Total Parties",
       "count": "27"
     }
