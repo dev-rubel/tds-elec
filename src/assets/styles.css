@@ -320,6 +320,10 @@ polyline:hover {
   .section3 .left-section iframe {
     height: 800px !important;
   }
+
+  .left-section {
+    order: 1;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
