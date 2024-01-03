@@ -4,13 +4,13 @@
 }
 
 .grid-x.top-banner h1.title {
-  color: #fff;
+  color: #45c6ff;
   font-size: 70px;
   font-size: 4.5vw;
   font-weight: bold;
 }
 .grid-x.banner-img-1 {
-  background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://online.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
+  background: url(https://online.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
   padding: 0px 0px;
   margin: 10px 0px;
   background-repeat: no-repeat !important;
@@ -18,7 +18,7 @@
   min-height: 130px;
 }
 .grid-x.banner-img-2 {
-  background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/distric-bg.png);
+  background: url(https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/distric-bg.png);
   padding: 0px 0px;
   margin: 10px 0px;
   background-repeat: no-repeat !important;
