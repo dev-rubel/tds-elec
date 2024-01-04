@@ -3,8 +3,8 @@
     "independent": {
       "key": "independent",
       "name": "Independent",
-      "symbol": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
-      "symbol_name": "Ektara"
+      "symbol": "",
+      "symbol_name": ""
     },
     "jatiya_party": {
       "key": "jatiya_party",
@@ -186,11 +186,11 @@
       "key": "candidate-1",
       "partie_key": "independent",
       "name": "Sirajul Islam Mollah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-2": {
       "key": "candidate-2",
@@ -286,11 +286,11 @@
       "key": "candidate-11",
       "partie_key": "independent",
       "name": "Md Saiful Islam Khan Biru",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-12": {
       "key": "candidate-12",
@@ -346,11 +346,11 @@
       "key": "candidate-17",
       "partie_key": "independent",
       "name": "MIzanur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-18": {
       "key": "candidate-18",
@@ -366,21 +366,21 @@
       "key": "candidate-19",
       "partie_key": "independent",
       "name": "Md Solayman Khandaker",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-20": {
       "key": "candidate-20",
       "partie_key": "independent",
       "name": "Md Mahfuzur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-21": {
       "key": "candidate-21",
@@ -416,11 +416,11 @@
       "key": "candidate-24",
       "partie_key": "independent",
       "name": "MD Jaynal Abedin Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-25": {
       "key": "candidate-25",
@@ -436,31 +436,31 @@
       "key": "candidate-26",
       "partie_key": "independent",
       "name": "Md Shahjahan Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/kettle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "kettle"
+      "symbol": ""
     },
     "candidate-27": {
       "key": "candidate-27",
       "partie_key": "independent",
       "name": "Gazi Golam Mortuza",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-28": {
       "key": "candidate-28",
       "partie_key": "independent",
       "name": "Md Habibur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Almirah.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Almirah"
+      "symbol": ""
     },
     "candidate-29": {
       "key": "candidate-29",
@@ -526,11 +526,11 @@
       "key": "candidate-35",
       "partie_key": "independent",
       "name": "Hazi Mohammad Shariful Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-36": {
       "key": "candidate-36",
@@ -596,11 +596,11 @@
       "key": "candidate-42",
       "partie_key": "independent",
       "name": "A H M Masud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-43": {
       "key": "candidate-43",
@@ -736,21 +736,21 @@
       "key": "candidate-56",
       "partie_key": "independent",
       "name": "Swapan Kumar Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-57": {
       "key": "candidate-57",
       "partie_key": "independent",
       "name": "Md Imdadul Haque Biswas",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-58": {
       "key": "candidate-58",
@@ -816,11 +816,11 @@
       "key": "candidate-64",
       "partie_key": "independent",
       "name": "Nure Alam Siddiqi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-65": {
       "key": "candidate-65",
@@ -876,11 +876,11 @@
       "key": "candidate-70",
       "partie_key": "independent",
       "name": "Mohammad Arifur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-71": {
       "key": "candidate-71",
@@ -906,11 +906,11 @@
       "key": "candidate-73",
       "partie_key": "independent",
       "name": "Md Jamal Hossain Miya",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-74": {
       "key": "candidate-74",
@@ -946,11 +946,11 @@
       "key": "candidate-77",
       "partie_key": "independent",
       "name": "Abdul kader Azad",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-78": {
       "key": "candidate-78",
@@ -996,11 +996,11 @@
       "key": "candidate-82",
       "partie_key": "independent",
       "name": "Mozibur Rahman Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-83": {
       "key": "candidate-83",
@@ -1086,11 +1086,11 @@
       "key": "candidate-91",
       "partie_key": "independent",
       "name": "Kabir Miya",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-92": {
       "key": "candidate-92",
@@ -1146,11 +1146,11 @@
       "key": "candidate-97",
       "partie_key": "independent",
       "name": "Md Aminul Hassan Shahin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rocket.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rocket"
+      "symbol": ""
     },
     "candidate-98": {
       "key": "candidate-98",
@@ -1326,11 +1326,11 @@
       "key": "candidate-115",
       "partie_key": "independent",
       "name": "Tahmina Begum",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-116": {
       "key": "candidate-116",
@@ -1386,11 +1386,11 @@
       "key": "candidate-121",
       "partie_key": "independent",
       "name": "Mohammad Golam Mostofa",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-122": {
       "key": "candidate-122",
@@ -1486,11 +1486,11 @@
       "key": "candidate-131",
       "partie_key": "independent",
       "name": "Khaled Showkat Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-132": {
       "key": "candidate-132",
@@ -1566,7 +1566,7 @@
       "key": "candidate-139",
       "partie_key": "independent",
       "name": "Md Salim Ahmad",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -1576,11 +1576,11 @@
       "key": "candidate-140",
       "partie_key": "independent",
       "name": "Moazzem Hossain Ratan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/kettle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "kettle"
+      "symbol": ""
     },
     "candidate-141": {
       "key": "candidate-141",
@@ -1626,21 +1626,21 @@
       "key": "candidate-145",
       "partie_key": "independent",
       "name": "Md Mizanur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-146": {
       "key": "candidate-146",
       "partie_key": "independent",
       "name": "Jaya Sen Gupta",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-147": {
       "key": "candidate-147",
@@ -1706,11 +1706,11 @@
       "key": "candidate-153",
       "partie_key": "independent",
       "name": "Md Enamul Kabir Emon",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-154": {
       "key": "candidate-154",
@@ -1726,11 +1726,11 @@
       "key": "candidate-155",
       "partie_key": "independent",
       "name": "Md Mobarak Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-156": {
       "key": "candidate-156",
@@ -1796,11 +1796,11 @@
       "key": "candidate-162",
       "partie_key": "independent",
       "name": "Shamim Ahmad Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-163": {
       "key": "candidate-163",
@@ -1956,11 +1956,11 @@
       "key": "candidate-178",
       "partie_key": "independent",
       "name": "Md Ehteshamul Haque Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-179": {
       "key": "candidate-179",
@@ -2036,21 +2036,21 @@
       "key": "candidate-186",
       "partie_key": "independent",
       "name": "Mohammad Husamuddin Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/kettle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "kettle"
+      "symbol": ""
     },
     "candidate-187": {
       "key": "candidate-187",
       "partie_key": "independent",
       "name": "Ahmad Al kabir",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-188": {
       "key": "candidate-188",
@@ -2116,11 +2116,11 @@
       "key": "candidate-194",
       "partie_key": "independent",
       "name": "Sarwar Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-195": {
       "key": "candidate-195",
@@ -2186,31 +2186,31 @@
       "key": "candidate-201",
       "partie_key": "independent",
       "name": "Mohammad Moynul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-202": {
       "key": "candidate-202",
       "partie_key": "independent",
       "name": "A K M Safiuddin Solman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-203": {
       "key": "candidate-203",
       "partie_key": "independent",
       "name": "Md Abdul Matin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-204": {
       "key": "candidate-204",
@@ -2386,11 +2386,11 @@
       "key": "candidate-221",
       "partie_key": "independent",
       "name": "Gazi Mohammad Shahed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-222": {
       "key": "candidate-222",
@@ -2416,11 +2416,11 @@
       "key": "candidate-224",
       "partie_key": "independent",
       "name": "Amatul Kibria Keya Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-225": {
       "key": "candidate-225",
@@ -2506,11 +2506,11 @@
       "key": "candidate-233",
       "partie_key": "independent",
       "name": "Md Abdul Majid Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-234": {
       "key": "candidate-234",
@@ -2676,11 +2676,11 @@
       "key": "candidate-250",
       "partie_key": "independent",
       "name": "Syed Sayedul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-251": {
       "key": "candidate-251",
@@ -2726,11 +2726,11 @@
       "key": "candidate-255",
       "partie_key": "independent",
       "name": "S A K Ekramuzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kolar chori.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kolar chori"
+      "symbol": ""
     },
     "candidate-256": {
       "key": "candidate-256",
@@ -2766,21 +2766,21 @@
       "key": "candidate-259",
       "partie_key": "independent",
       "name": "Advocate Md Ziaul haque Mridha",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-260": {
       "key": "candidate-260",
       "partie_key": "independent",
       "name": "Md Moin Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kolar chori.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kolar chori"
+      "symbol": ""
     },
     "candidate-261": {
       "key": "candidate-261",
@@ -2856,11 +2856,11 @@
       "key": "candidate-268",
       "partie_key": "independent",
       "name": "Firojur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-269": {
       "key": "candidate-269",
@@ -2936,11 +2936,11 @@
       "key": "candidate-276",
       "partie_key": "independent",
       "name": "A K M Mominul Haque Sayeed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-277": {
       "key": "candidate-277",
@@ -3106,11 +3106,11 @@
       "key": "candidate-293",
       "partie_key": "independent",
       "name": "Md Abdul Majid",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-294": {
       "key": "candidate-294",
@@ -3156,11 +3156,11 @@
       "key": "candidate-298",
       "partie_key": "independent",
       "name": "Md Shafiqul Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-299": {
       "key": "candidate-299",
@@ -3306,11 +3306,11 @@
       "key": "candidate-313",
       "partie_key": "independent",
       "name": "Md Abul Kalam Azad",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-314": {
       "key": "candidate-314",
@@ -3406,31 +3406,31 @@
       "key": "candidate-323",
       "partie_key": "independent",
       "name": "Showkat Mahmud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-324": {
       "key": "candidate-324",
       "partie_key": "independent",
       "name": "Ehteshamul Hasan Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-325": {
       "key": "candidate-325",
       "partie_key": "independent",
       "name": "Sajjad Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Cauliflower.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Cauliflower"
+      "symbol": ""
     },
     "candidate-326": {
       "key": "candidate-326",
@@ -3446,11 +3446,11 @@
       "key": "candidate-327",
       "partie_key": "independent",
       "name": "M A Jaher",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/kettle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "kettle"
+      "symbol": ""
     },
     "candidate-328": {
       "key": "candidate-328",
@@ -3476,11 +3476,11 @@
       "key": "candidate-330",
       "partie_key": "independent",
       "name": "Md Jahangir Khan Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Scissor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Scissor"
+      "symbol": ""
     },
     "candidate-331": {
       "key": "candidate-331",
@@ -3506,11 +3506,11 @@
       "key": "candidate-333",
       "partie_key": "independent",
       "name": "Anjum Sultana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-334": {
       "key": "candidate-334",
@@ -3616,11 +3616,11 @@
       "key": "candidate-344",
       "partie_key": "independent",
       "name": "Nurul Islam Milon",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-345": {
       "key": "candidate-345",
@@ -3836,11 +3836,11 @@
       "key": "candidate-366",
       "partie_key": "independent",
       "name": "Md Mizanur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Cauliflower.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Cauliflower"
+      "symbol": ""
     },
     "candidate-367": {
       "key": "candidate-367",
@@ -3886,11 +3886,11 @@
       "key": "candidate-371",
       "partie_key": "independent",
       "name": "Md Nizam Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-372": {
       "key": "candidate-372",
@@ -3966,21 +3966,21 @@
       "key": "candidate-379",
       "partie_key": "independent",
       "name": "M Isfak Ahsan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-380": {
       "key": "candidate-380",
       "partie_key": "independent",
       "name": "Mohammad Shamsul Haque Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-381": {
       "key": "candidate-381",
@@ -4036,11 +4036,11 @@
       "key": "candidate-386",
       "partie_key": "independent",
       "name": "Md Ridwan khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-387": {
       "key": "candidate-387",
@@ -4056,11 +4056,11 @@
       "key": "candidate-388",
       "partie_key": "independent",
       "name": "Jalal Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-389": {
       "key": "candidate-389",
@@ -4096,11 +4096,11 @@
       "key": "candidate-392",
       "partie_key": "independent",
       "name": "Mohammad Shamsul Haque Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-393": {
       "key": "candidate-393",
@@ -4146,11 +4146,11 @@
       "key": "candidate-397",
       "partie_key": "independent",
       "name": "Gazi Mainuddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-398": {
       "key": "candidate-398",
@@ -4166,11 +4166,11 @@
       "key": "candidate-399",
       "partie_key": "independent",
       "name": "Mohammad Shafiqul Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-400": {
       "key": "candidate-400",
@@ -4196,11 +4196,11 @@
       "key": "candidate-402",
       "partie_key": "independent",
       "name": "Abul Hashem Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-403": {
       "key": "candidate-403",
@@ -4256,11 +4256,11 @@
       "key": "candidate-408",
       "partie_key": "independent",
       "name": "A H M Anwarul karim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-409": {
       "key": "candidate-409",
@@ -4366,11 +4366,11 @@
       "key": "candidate-419",
       "partie_key": "independent",
       "name": "Rahim Ullah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Candle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Candle"
+      "symbol": ""
     },
     "candidate-420": {
       "key": "candidate-420",
@@ -4436,11 +4436,11 @@
       "key": "candidate-426",
       "partie_key": "independent",
       "name": "Khandaker Al Amin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Flower Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Flower Garland"
+      "symbol": ""
     },
     "candidate-427": {
       "key": "candidate-427",
@@ -4516,11 +4516,11 @@
       "key": "candidate-434",
       "partie_key": "independent",
       "name": "Md Ataur Rahman Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Wristwatch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Wristwatch"
+      "symbol": ""
     },
     "candidate-435": {
       "key": "candidate-435",
@@ -4566,11 +4566,11 @@
       "key": "candidate-439",
       "partie_key": "independent",
       "name": "Minhaj Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-440": {
       "key": "candidate-440",
@@ -4596,7 +4596,7 @@
       "key": "candidate-442",
       "partie_key": "independent",
       "name": "Md Shihab Uddin Shahin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4736,7 +4736,7 @@
       "key": "candidate-456",
       "partie_key": "independent",
       "name": "Mohammad Habibur Rahman Paban",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4756,7 +4756,7 @@
       "key": "candidate-458",
       "partie_key": "independent",
       "name": "M A Gofran",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4806,11 +4806,11 @@
       "key": "candidate-463",
       "partie_key": "independent",
       "name": "Chowdhury Rubina Yasmin Lubna",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-464": {
       "key": "candidate-464",
@@ -4896,7 +4896,7 @@
       "key": "candidate-472",
       "partie_key": "independent",
       "name": "M A Sattar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4936,7 +4936,7 @@
       "key": "candidate-476",
       "partie_key": "independent",
       "name": "Iskandar Mirza Shamim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4966,7 +4966,7 @@
       "key": "candidate-479",
       "partie_key": "independent",
       "name": "Md Abdullah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -4976,21 +4976,21 @@
       "key": "candidate-480",
       "partie_key": "independent",
       "name": "Mohammad Gias Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-481": {
       "key": "candidate-481",
       "partie_key": "independent",
       "name": "Mohammad Gias Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-482": {
       "key": "candidate-482",
@@ -5076,11 +5076,11 @@
       "key": "candidate-490",
       "partie_key": "independent",
       "name": "Mohammad Shahjahan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-491": {
       "key": "candidate-491",
@@ -5106,11 +5106,11 @@
       "key": "candidate-493",
       "partie_key": "independent",
       "name": "Hossain Mohammad Abu Toiyab",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Flower Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Flower Garland"
+      "symbol": ""
     },
     "candidate-494": {
       "key": "candidate-494",
@@ -5186,11 +5186,11 @@
       "key": "candidate-501",
       "partie_key": "independent",
       "name": "Md Jamal Uddin Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-502": {
       "key": "candidate-502",
@@ -5306,11 +5306,11 @@
       "key": "candidate-513",
       "partie_key": "independent",
       "name": "Mohammad Shahjahan Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-514": {
       "key": "candidate-514",
@@ -5376,11 +5376,11 @@
       "key": "candidate-520",
       "partie_key": "independent",
       "name": "Shafiul Azam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-521": {
       "key": "candidate-521",
@@ -5466,11 +5466,11 @@
       "key": "candidate-529",
       "partie_key": "independent",
       "name": "Abduch Salam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-530": {
       "key": "candidate-530",
@@ -5526,11 +5526,11 @@
       "key": "candidate-535",
       "partie_key": "independent",
       "name": "Bijay Kumar Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-536": {
       "key": "candidate-536",
@@ -5656,7 +5656,7 @@
       "key": "candidate-548",
       "partie_key": "independent",
       "name": "Mohammad Manzur Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -5686,7 +5686,7 @@
       "key": "candidate-551",
       "partie_key": "independent",
       "name": "Farid Mahmud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -5756,7 +5756,7 @@
       "key": "candidate-558",
       "partie_key": "independent",
       "name": "Ziaul Haque Suman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -5806,7 +5806,7 @@
       "key": "candidate-563",
       "partie_key": "independent",
       "name": "Shamsul Haque Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -5956,7 +5956,7 @@
       "key": "candidate-578",
       "partie_key": "independent",
       "name": "Mohammad Abdul Zabbar Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6076,7 +6076,7 @@
       "key": "candidate-590",
       "partie_key": "independent",
       "name": "Abdul Motaleb",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6096,7 +6096,7 @@
       "key": "candidate-592",
       "partie_key": "independent",
       "name": "Muzibur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6146,7 +6146,7 @@
       "key": "candidate-597",
       "partie_key": "independent",
       "name": "Md Khalequzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6166,11 +6166,11 @@
       "key": "candidate-599",
       "partie_key": "independent",
       "name": "Abdullah kabir",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Minar.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Minar"
+      "symbol": ""
     },
     "candidate-600": {
       "key": "candidate-600",
@@ -6216,11 +6216,11 @@
       "key": "candidate-604",
       "partie_key": "independent",
       "name": "Zafar Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-605": {
       "key": "candidate-605",
@@ -6236,21 +6236,21 @@
       "key": "candidate-606",
       "partie_key": "independent",
       "name": "Komor Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-607": {
       "key": "candidate-607",
       "partie_key": "independent",
       "name": "Tanvir Ahmad Siddiqi Tuhin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kolar chori.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kolar chori"
+      "symbol": ""
     },
     "candidate-608": {
       "key": "candidate-608",
@@ -6526,11 +6526,11 @@
       "key": "candidate-635",
       "partie_key": "independent",
       "name": "Md Anwar Sadat",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-636": {
       "key": "candidate-636",
@@ -6686,7 +6686,7 @@
       "key": "candidate-651",
       "partie_key": "independent",
       "name": "Md Ali Aslam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6696,11 +6696,11 @@
       "key": "candidate-652",
       "partie_key": "independent",
       "name": "Md Abdul Kader",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-653": {
       "key": "candidate-653",
@@ -6736,7 +6736,7 @@
       "key": "candidate-656",
       "partie_key": "independent",
       "name": "Asha Mani",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6766,11 +6766,11 @@
       "key": "candidate-659",
       "partie_key": "independent",
       "name": "Md Zakaria",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-660": {
       "key": "candidate-660",
@@ -6786,11 +6786,11 @@
       "key": "candidate-661",
       "partie_key": "independent",
       "name": "Anwar Chowdhury Jiban",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-662": {
       "key": "candidate-662",
@@ -6866,7 +6866,7 @@
       "key": "candidate-669",
       "partie_key": "independent",
       "name": "Biswajit Kumar Ghosh",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -6886,11 +6886,11 @@
       "key": "candidate-671",
       "partie_key": "independent",
       "name": "Md Tariqul Islam Tariq",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-672": {
       "key": "candidate-672",
@@ -6946,17 +6946,17 @@
       "key": "candidate-677",
       "partie_key": "independent",
       "name": "Md Hazrat Ali Belal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-678": {
       "key": "candidate-678",
       "partie_key": "independent",
       "name": "Azizul Haque Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7026,7 +7026,7 @@
       "key": "candidate-685",
       "partie_key": "independent",
       "name": "Md Imran Kabir Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7066,7 +7066,7 @@
       "key": "candidate-689",
       "partie_key": "independent",
       "name": "Md Joynal Abedin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7106,7 +7106,7 @@
       "key": "candidate-693",
       "partie_key": "independent",
       "name": "Kazi Faruk Quader",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7136,7 +7136,7 @@
       "key": "candidate-696",
       "partie_key": "independent",
       "name": "Md Saddam Hossain (Pavel)",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7146,7 +7146,7 @@
       "key": "candidate-697",
       "partie_key": "independent",
       "name": "Md Hukum Ali Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7156,31 +7156,31 @@
       "key": "candidate-698",
       "partie_key": "independent",
       "name": "Marzia Sultana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kachi.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kachi"
+      "symbol": ""
     },
     "candidate-699": {
       "key": "candidate-699",
       "partie_key": "independent",
       "name": "Md Abu Sayeed (Shamim)",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-700": {
       "key": "candidate-700",
       "partie_key": "independent",
       "name": "Md Siddiqul Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-701": {
       "key": "candidate-701",
@@ -7226,7 +7226,7 @@
       "key": "candidate-705",
       "partie_key": "independent",
       "name": "Md Mokhsedul Momin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7256,7 +7256,7 @@
       "key": "candidate-708",
       "partie_key": "independent",
       "name": "Md Ataur Rahman Prodhan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7286,17 +7286,17 @@
       "key": "candidate-711",
       "partie_key": "independent",
       "name": "KM Amzad Hossain Taju",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-712": {
       "key": "candidate-712",
       "partie_key": "independent",
       "name": "Md Momtaz Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7356,11 +7356,11 @@
       "key": "candidate-718",
       "partie_key": "independent",
       "name": "Md Sirajul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rose.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rose"
+      "symbol": ""
     },
     "candidate-719": {
       "key": "candidate-719",
@@ -7416,7 +7416,7 @@
       "key": "candidate-724",
       "partie_key": "independent",
       "name": "Md Jabed Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7446,17 +7446,17 @@
       "key": "candidate-727",
       "partie_key": "independent",
       "name": "Md Mashiur Rahman Ranga",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-728": {
       "key": "candidate-728",
       "partie_key": "independent",
       "name": "Md Shahinur Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7476,17 +7476,17 @@
       "key": "candidate-730",
       "partie_key": "independent",
       "name": "Md Asaduzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-731": {
       "key": "candidate-731",
       "partie_key": "independent",
       "name": "Md Mosharraf Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -7546,21 +7546,21 @@
       "key": "candidate-737",
       "partie_key": "independent",
       "name": "Biswanath Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-738": {
       "key": "candidate-738",
       "partie_key": "independent",
       "name": "Anwara Islam Rani",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-739": {
       "key": "candidate-739",
@@ -7706,11 +7706,11 @@
       "key": "candidate-753",
       "partie_key": "independent",
       "name": "Md Zakir Hossain Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-754": {
       "key": "candidate-754",
@@ -7726,21 +7726,21 @@
       "key": "candidate-755",
       "partie_key": "independent",
       "name": "Md Sirajul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-756": {
       "key": "candidate-756",
       "partie_key": "independent",
       "name": "Takia Jahan Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-757": {
       "key": "candidate-757",
@@ -7846,11 +7846,11 @@
       "key": "candidate-767",
       "partie_key": "independent",
       "name": "Md Hamidul Haque Khandaker",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rose.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rose"
+      "symbol": ""
     },
     "candidate-768": {
       "key": "candidate-768",
@@ -7926,11 +7926,11 @@
       "key": "candidate-775",
       "partie_key": "independent",
       "name": "Akkas Ali Sarker",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-776": {
       "key": "candidate-776",
@@ -7976,31 +7976,31 @@
       "key": "candidate-780",
       "partie_key": "independent",
       "name": "Md Mujibur Rahman Bangabashi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-781": {
       "key": "candidate-781",
       "partie_key": "independent",
       "name": "Md Shahidul Islam Shalu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-782": {
       "key": "candidate-782",
       "partie_key": "independent",
       "name": "Masum Iqbal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Bicycle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Bicycle"
+      "symbol": ""
     },
     "candidate-783": {
       "key": "candidate-783",
@@ -8056,11 +8056,11 @@
       "key": "candidate-788",
       "partie_key": "independent",
       "name": "Md Joynal Abedin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-789": {
       "key": "candidate-789",
@@ -8136,11 +8136,11 @@
       "key": "candidate-796",
       "partie_key": "independent",
       "name": "Abdullah Nahid Nigar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-797": {
       "key": "candidate-797",
@@ -8156,11 +8156,11 @@
       "key": "candidate-798",
       "partie_key": "independent",
       "name": "Shah Sarwar Kabir",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Stick.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Stick"
+      "symbol": ""
     },
     "candidate-799": {
       "key": "candidate-799",
@@ -8176,11 +8176,11 @@
       "key": "candidate-800",
       "partie_key": "independent",
       "name": "Masuma Akhter",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-801": {
       "key": "candidate-801",
@@ -8196,11 +8196,11 @@
       "key": "candidate-802",
       "partie_key": "independent",
       "name": "Md Azizar Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-803": {
       "key": "candidate-803",
@@ -8236,11 +8236,11 @@
       "key": "candidate-806",
       "partie_key": "independent",
       "name": "Md Mofizul Haque Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Dheki.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Dheki"
+      "symbol": ""
     },
     "candidate-807": {
       "key": "candidate-807",
@@ -8256,11 +8256,11 @@
       "key": "candidate-808",
       "partie_key": "independent",
       "name": "Md Saharia Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-809": {
       "key": "candidate-809",
@@ -8306,11 +8306,11 @@
       "key": "candidate-813",
       "partie_key": "independent",
       "name": "Md Monowar Hossain Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-814": {
       "key": "candidate-814",
@@ -8326,11 +8326,11 @@
       "key": "candidate-815",
       "partie_key": "independent",
       "name": "Md Shamsul Azad Shital",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-816": {
       "key": "candidate-816",
@@ -8366,11 +8366,11 @@
       "key": "candidate-819",
       "partie_key": "independent",
       "name": "Farzana Bubly",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-820": {
       "key": "candidate-820",
@@ -8406,11 +8406,11 @@
       "key": "candidate-823",
       "partie_key": "independent",
       "name": "AKM Raihan Mondal Monu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-824": {
       "key": "candidate-824",
@@ -8426,21 +8426,21 @@
       "key": "candidate-825",
       "partie_key": "independent",
       "name": "Abdul Aziz Molla",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-826": {
       "key": "candidate-826",
       "partie_key": "independent",
       "name": "Md Jahurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-827": {
       "key": "candidate-827",
@@ -8456,21 +8456,21 @@
       "key": "candidate-828",
       "partie_key": "independent",
       "name": "Md Atowar Rahman Mondal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-829": {
       "key": "candidate-829",
       "partie_key": "independent",
       "name": "Md Abdur Razzak Sardar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-830": {
       "key": "candidate-830",
@@ -8496,11 +8496,11 @@
       "key": "candidate-832",
       "partie_key": "independent",
       "name": "Md Golam Mahfuz Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-833": {
       "key": "candidate-833",
@@ -8526,31 +8526,31 @@
       "key": "candidate-835",
       "partie_key": "independent",
       "name": "Md Shokrana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-836": {
       "key": "candidate-836",
       "partie_key": "independent",
       "name": "Md Yasir Rahmatullah Intaz",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-837": {
       "key": "candidate-837",
       "partie_key": "independent",
       "name": "Shahjadi Alam Lipi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kachi.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kachi"
+      "symbol": ""
     },
     "candidate-838": {
       "key": "candidate-838",
@@ -8616,21 +8616,21 @@
       "key": "candidate-844",
       "partie_key": "independent",
       "name": "KSM Mostafizur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-845": {
       "key": "candidate-845",
       "partie_key": "independent",
       "name": "Al Farabi Md Nurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-846": {
       "key": "candidate-846",
@@ -8646,11 +8646,11 @@
       "key": "candidate-847",
       "partie_key": "independent",
       "name": "Beauty Begum",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Flower Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Flower Garland"
+      "symbol": ""
     },
     "candidate-848": {
       "key": "candidate-848",
@@ -8666,11 +8666,11 @@
       "key": "candidate-849",
       "partie_key": "independent",
       "name": "Md Akram Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-850": {
       "key": "candidate-850",
@@ -8696,11 +8696,11 @@
       "key": "candidate-852",
       "partie_key": "independent",
       "name": "Md Nazrul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-853": {
       "key": "candidate-853",
@@ -8716,11 +8716,11 @@
       "key": "candidate-854",
       "partie_key": "independent",
       "name": "Md Afzal Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kachi.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kachi"
+      "symbol": ""
     },
     "candidate-855": {
       "key": "candidate-855",
@@ -8756,11 +8756,11 @@
       "key": "candidate-858",
       "partie_key": "independent",
       "name": "Md Ferdous Swadhin Firoz",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-859": {
       "key": "candidate-859",
@@ -8776,21 +8776,21 @@
       "key": "candidate-860",
       "partie_key": "independent",
       "name": "Ajay Kumar Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-861": {
       "key": "candidate-861",
       "partie_key": "independent",
       "name": "Khan Muhammad Saifullah Al Mehedi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-862": {
       "key": "candidate-862",
@@ -8816,21 +8816,21 @@
       "key": "candidate-864",
       "partie_key": "independent",
       "name": "Md Moshfiqur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-865": {
       "key": "candidate-865",
       "partie_key": "independent",
       "name": "Ziaul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kachi.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kachi"
+      "symbol": ""
     },
     "candidate-866": {
       "key": "candidate-866",
@@ -8906,21 +8906,21 @@
       "key": "candidate-873",
       "partie_key": "independent",
       "name": "Syed Kabir Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-874": {
       "key": "candidate-874",
       "partie_key": "independent",
       "name": "Md Abdul Mannan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-875": {
       "key": "candidate-875",
@@ -8956,21 +8956,21 @@
       "key": "candidate-878",
       "partie_key": "independent",
       "name": "Md Sarker Badal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-879": {
       "key": "candidate-879",
       "partie_key": "independent",
       "name": "Md Rezaul Karim (Bablu)",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-880": {
       "key": "candidate-880",
@@ -8986,11 +8986,11 @@
       "key": "candidate-881",
       "partie_key": "independent",
       "name": "Md Nazurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-882": {
       "key": "candidate-882",
@@ -9086,11 +9086,11 @@
       "key": "candidate-891",
       "partie_key": "independent",
       "name": "Md Golam Rakmani",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-892": {
       "key": "candidate-892",
@@ -9105,7 +9105,7 @@
     "candidate-893": {
       "key": "candidate-893",
       "partie_key": "bangladesh_awami_league",
-      "name": "Samil Uddin Ahmed Shimul",
+      "name": "Md Abdul Halim",
       "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
       "affidabte": "",
       "details": "",
@@ -9116,11 +9116,11 @@
       "key": "candidate-894",
       "partie_key": "independent",
       "name": "Syed Nazrul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-895": {
       "key": "candidate-895",
@@ -9156,11 +9156,11 @@
       "key": "candidate-898",
       "partie_key": "independent",
       "name": "Md Golam Mostafa",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-899": {
       "key": "candidate-899",
@@ -9236,21 +9236,21 @@
       "key": "candidate-906",
       "partie_key": "independent",
       "name": "Khalequzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-907": {
       "key": "candidate-907",
       "partie_key": "independent",
       "name": "Md Majed Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-908": {
       "key": "candidate-908",
@@ -9286,11 +9286,11 @@
       "key": "candidate-911",
       "partie_key": "independent",
       "name": "Md Salim Uddin Tarafdar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-912": {
       "key": "candidate-912",
@@ -9316,11 +9316,11 @@
       "key": "candidate-914",
       "partie_key": "independent",
       "name": "Mahfuza Akram Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-915": {
       "key": "candidate-915",
@@ -9346,11 +9346,11 @@
       "key": "candidate-917",
       "partie_key": "independent",
       "name": "SM Brahmani Sultan Mamud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-918": {
       "key": "candidate-918",
@@ -9376,21 +9376,21 @@
       "key": "candidate-920",
       "partie_key": "independent",
       "name": "Mohd Imaj Uddin Prang",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-921": {
       "key": "candidate-921",
       "partie_key": "independent",
       "name": "Dewan Chhekar Ahmed Shishan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-922": {
       "key": "candidate-922",
@@ -9456,11 +9456,11 @@
       "key": "candidate-928",
       "partie_key": "independent",
       "name": "Jahidul",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-929": {
       "key": "candidate-929",
@@ -9486,21 +9486,21 @@
       "key": "candidate-931",
       "partie_key": "independent",
       "name": "Md Omar Faruk",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-932": {
       "key": "candidate-932",
       "partie_key": "independent",
       "name": "Md Nausher Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-933": {
       "key": "candidate-933",
@@ -9516,11 +9516,11 @@
       "key": "candidate-934",
       "partie_key": "independent",
       "name": "Sharmin Akhter Nipa Mahia",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-935": {
       "key": "candidate-935",
@@ -9576,11 +9576,11 @@
       "key": "candidate-940",
       "partie_key": "independent",
       "name": "Md Golam Rakmani",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-941": {
       "key": "candidate-941",
@@ -9716,11 +9716,11 @@
       "key": "candidate-954",
       "partie_key": "independent",
       "name": "Md Babul Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-955": {
       "key": "candidate-955",
@@ -9746,11 +9746,11 @@
       "key": "candidate-957",
       "partie_key": "independent",
       "name": "Md Enamul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-958": {
       "key": "candidate-958",
@@ -9816,11 +9816,11 @@
       "key": "candidate-964",
       "partie_key": "independent",
       "name": "Md Obaidur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-965": {
       "key": "candidate-965",
@@ -9866,11 +9866,11 @@
       "key": "candidate-969",
       "partie_key": "independent",
       "name": "Md Rahenul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-970": {
       "key": "candidate-970",
@@ -9926,11 +9926,11 @@
       "key": "candidate-975",
       "partie_key": "independent",
       "name": "Md Jamal Uddin Faruk",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-976": {
       "key": "candidate-976",
@@ -9946,21 +9946,21 @@
       "key": "candidate-977",
       "partie_key": "independent",
       "name": "Md Abul Kalam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-978": {
       "key": "candidate-978",
       "partie_key": "independent",
       "name": "Kajal Roy",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-979": {
       "key": "candidate-979",
@@ -9976,11 +9976,11 @@
       "key": "candidate-980",
       "partie_key": "independent",
       "name": "Md Ramzan Ali Sarker",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-981": {
       "key": "candidate-981",
@@ -9996,11 +9996,11 @@
       "key": "candidate-982",
       "partie_key": "independent",
       "name": "Md Ahad Ali Sarker",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-983": {
       "key": "candidate-983",
@@ -10066,11 +10066,11 @@
       "key": "candidate-989",
       "partie_key": "independent",
       "name": "Md Shafiqul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-990": {
       "key": "candidate-990",
@@ -10106,11 +10106,11 @@
       "key": "candidate-993",
       "partie_key": "independent",
       "name": "Md Tasbdullah-Al Mamun",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-994": {
       "key": "candidate-994",
@@ -10156,21 +10156,21 @@
       "key": "candidate-998",
       "partie_key": "independent",
       "name": "Md Zahidul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-999": {
       "key": "candidate-999",
       "partie_key": "independent",
       "name": "Asif Abdullah Bin Kuddus",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1000": {
       "key": "candidate-1000",
@@ -10206,11 +10206,11 @@
       "key": "candidate-1003",
       "partie_key": "independent",
       "name": "Sujan Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1004": {
       "key": "candidate-1004",
@@ -10376,11 +10376,11 @@
       "key": "candidate-1020",
       "partie_key": "independent",
       "name": "Abdullah Al Mamun",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1021": {
       "key": "candidate-1021",
@@ -10396,11 +10396,11 @@
       "key": "candidate-1022",
       "partie_key": "independent",
       "name": "Md Abdul Latif Biswas",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1023": {
       "key": "candidate-1023",
@@ -10456,11 +10456,11 @@
       "key": "candidate-1028",
       "partie_key": "independent",
       "name": "Md Halimul Haque Miru",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1029": {
       "key": "candidate-1029",
@@ -10506,11 +10506,11 @@
       "key": "candidate-1033",
       "partie_key": "independent",
       "name": "Professor Abu Sayeed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1034": {
       "key": "candidate-1034",
@@ -10676,11 +10676,11 @@
       "key": "candidate-1050",
       "partie_key": "independent",
       "name": "Md Abdul Hamid",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-1051": {
       "key": "candidate-1051",
@@ -10746,11 +10746,11 @@
       "key": "candidate-1057",
       "partie_key": "independent",
       "name": "Md Punjab Ali Biswas",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-1058": {
       "key": "candidate-1058",
@@ -10816,11 +10816,11 @@
       "key": "candidate-1064",
       "partie_key": "independent",
       "name": "Md Joynal Abedin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-1065": {
       "key": "candidate-1065",
@@ -10846,11 +10846,11 @@
       "key": "candidate-1067",
       "partie_key": "independent",
       "name": "Professor Abdul Mannan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1068": {
       "key": "candidate-1068",
@@ -10896,11 +10896,11 @@
       "key": "candidate-1072",
       "partie_key": "independent",
       "name": "Md Mokbul Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1073": {
       "key": "candidate-1073",
@@ -10986,11 +10986,11 @@
       "key": "candidate-1081",
       "partie_key": "independent",
       "name": "Mohd Firoz Al Mamun",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1082": {
       "key": "candidate-1082",
@@ -11016,21 +11016,21 @@
       "key": "candidate-1084",
       "partie_key": "independent",
       "name": "Md Rezaul Haque Chowdhuri",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1085": {
       "key": "candidate-1085",
       "partie_key": "independent",
       "name": "Md Nazmul Huda",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-1086": {
       "key": "candidate-1086",
@@ -11046,11 +11046,11 @@
       "key": "candidate-1087",
       "partie_key": "independent",
       "name": "Md Rubel Parvez",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-1088": {
       "key": "candidate-1088",
@@ -11066,21 +11066,21 @@
       "key": "candidate-1089",
       "partie_key": "independent",
       "name": "Sardar Md Mustanzid",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1090": {
       "key": "candidate-1090",
       "partie_key": "independent",
       "name": "Md Kamarul Arefin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1091": {
       "key": "candidate-1091",
@@ -11096,11 +11096,11 @@
       "key": "candidate-1092",
       "partie_key": "independent",
       "name": "Iftekhar Mahmud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1093": {
       "key": "candidate-1093",
@@ -11156,11 +11156,11 @@
       "key": "candidate-1098",
       "partie_key": "independent",
       "name": "Md Parvez Anwar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1099": {
       "key": "candidate-1099",
@@ -11206,11 +11206,11 @@
       "key": "candidate-1103",
       "partie_key": "independent",
       "name": "Abdur Rouf",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1104": {
       "key": "candidate-1104",
@@ -11286,31 +11286,31 @@
       "key": "candidate-1111",
       "partie_key": "independent",
       "name": "Dilip Kumar Agarwala",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1112": {
       "key": "candidate-1112",
       "partie_key": "independent",
       "name": "M A Razzak Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1113": {
       "key": "candidate-1113",
       "partie_key": "independent",
       "name": "M Shahidur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1114": {
       "key": "candidate-1114",
@@ -11356,21 +11356,21 @@
       "key": "candidate-1118",
       "partie_key": "independent",
       "name": "Md Nur Hakim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1119": {
       "key": "candidate-1119",
       "partie_key": "independent",
       "name": "Md Abu Hashem Reza",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1120": {
       "key": "candidate-1120",
@@ -11406,11 +11406,11 @@
       "key": "candidate-1123",
       "partie_key": "independent",
       "name": "Nazrul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1124": {
       "key": "candidate-1124",
@@ -11426,11 +11426,11 @@
       "key": "candidate-1125",
       "partie_key": "independent",
       "name": "Munia Afrin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rose.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rose"
+      "symbol": ""
     },
     "candidate-1126": {
       "key": "candidate-1126",
@@ -11456,11 +11456,11 @@
       "key": "candidate-1128",
       "partie_key": "independent",
       "name": "Md Naser Shahriar Zahedi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1129": {
       "key": "candidate-1129",
@@ -11556,11 +11556,11 @@
       "key": "candidate-1138",
       "partie_key": "independent",
       "name": "Md Shafiqul Azam Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-1139": {
       "key": "candidate-1139",
@@ -11576,11 +11576,11 @@
       "key": "candidate-1140",
       "partie_key": "independent",
       "name": "Md Nabi Newaz",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1141": {
       "key": "candidate-1141",
@@ -11606,11 +11606,11 @@
       "key": "candidate-1143",
       "partie_key": "independent",
       "name": "Md Abdur Rashid Khokon",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1144": {
       "key": "candidate-1144",
@@ -11626,11 +11626,11 @@
       "key": "candidate-1145",
       "partie_key": "independent",
       "name": "Md Nazrul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1146": {
       "key": "candidate-1146",
@@ -11656,11 +11656,11 @@
       "key": "candidate-1148",
       "partie_key": "independent",
       "name": "Md Ashraful Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1149": {
       "key": "candidate-1149",
@@ -11676,11 +11676,11 @@
       "key": "candidate-1150",
       "partie_key": "independent",
       "name": "Md Monirul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1151": {
       "key": "candidate-1151",
@@ -11706,11 +11706,11 @@
       "key": "candidate-1153",
       "partie_key": "independent",
       "name": "SM Habibur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1154": {
       "key": "candidate-1154",
@@ -11786,11 +11786,11 @@
       "key": "candidate-1161",
       "partie_key": "independent",
       "name": "Mohit Kumar Nath",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kula.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kula"
+      "symbol": ""
     },
     "candidate-1162": {
       "key": "candidate-1162",
@@ -11846,11 +11846,11 @@
       "key": "candidate-1167",
       "partie_key": "independent",
       "name": "Ranjit Kumar Roy",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1168": {
       "key": "candidate-1168",
@@ -11876,11 +11876,11 @@
       "key": "candidate-1170",
       "partie_key": "independent",
       "name": "Md Yakub Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1171": {
       "key": "candidate-1171",
@@ -11926,11 +11926,11 @@
       "key": "candidate-1175",
       "partie_key": "independent",
       "name": "Md Azizul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1176": {
       "key": "candidate-1176",
@@ -11946,11 +11946,11 @@
       "key": "candidate-1177",
       "partie_key": "independent",
       "name": "HM Amir Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1178": {
       "key": "candidate-1178",
@@ -12096,11 +12096,11 @@
       "key": "candidate-1192",
       "partie_key": "independent",
       "name": "Chandana Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1193": {
       "key": "candidate-1193",
@@ -12266,11 +12266,11 @@
       "key": "candidate-1209",
       "partie_key": "independent",
       "name": "SM Azmal Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1210": {
       "key": "candidate-1210",
@@ -12356,11 +12356,11 @@
       "key": "candidate-1218",
       "partie_key": "independent",
       "name": "Md Iis Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1219": {
       "key": "candidate-1219",
@@ -12396,11 +12396,11 @@
       "key": "candidate-1222",
       "partie_key": "independent",
       "name": "Md Jamil Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1223": {
       "key": "candidate-1223",
@@ -12446,11 +12446,11 @@
       "key": "candidate-1227",
       "partie_key": "independent",
       "name": "Prashanta Kumar Roy",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1228": {
       "key": "candidate-1228",
@@ -12526,11 +12526,11 @@
       "key": "candidate-1235",
       "partie_key": "independent",
       "name": "Md Saidur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1236": {
       "key": "candidate-1236",
@@ -12556,11 +12556,11 @@
       "key": "candidate-1238",
       "partie_key": "independent",
       "name": "Fatema Zaman Sathi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Stick.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Stick"
+      "symbol": ""
     },
     "candidate-1239": {
       "key": "candidate-1239",
@@ -12576,11 +12576,11 @@
       "key": "candidate-1240",
       "partie_key": "independent",
       "name": "Md Jewel Rana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1241": {
       "key": "candidate-1241",
@@ -12596,11 +12596,11 @@
       "key": "candidate-1242",
       "partie_key": "independent",
       "name": "M D Ehsanul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rose.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rose"
+      "symbol": ""
     },
     "candidate-1243": {
       "key": "candidate-1243",
@@ -12646,11 +12646,11 @@
       "key": "candidate-1247",
       "partie_key": "independent",
       "name": "Md Rezvi Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Sofa.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Sofa"
+      "symbol": ""
     },
     "candidate-1248": {
       "key": "candidate-1248",
@@ -12756,11 +12756,11 @@
       "key": "candidate-1259",
       "partie_key": "independent",
       "name": "Fatema Zaman Sathi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1260": {
       "key": "candidate-1260",
@@ -12776,21 +12776,21 @@
       "key": "candidate-1261",
       "partie_key": "independent",
       "name": "Md Juwel Rana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1263": {
       "key": "candidate-1263",
       "partie_key": "independent",
       "name": "MD Ehsanul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Rose.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Rose"
+      "symbol": ""
     },
     "candidate-1264": {
       "key": "candidate-1264",
@@ -12836,11 +12836,11 @@
       "key": "candidate-1268",
       "partie_key": "independent",
       "name": "Md Rezvi Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Sofa.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Sofa"
+      "symbol": ""
     },
     "candidate-1269": {
       "key": "candidate-1269",
@@ -12936,11 +12936,11 @@
       "key": "candidate-1280",
       "partie_key": "independent",
       "name": "GM Mahabubul Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1281": {
       "key": "candidate-1281",
@@ -12966,31 +12966,31 @@
       "key": "candidate-1283",
       "partie_key": "independent",
       "name": "Sheikh Mujibur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1284": {
       "key": "candidate-1284",
       "partie_key": "independent",
       "name": "Sheikh Nurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1285": {
       "key": "candidate-1285",
       "partie_key": "independent",
       "name": "SM Mujibor Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1286": {
       "key": "candidate-1286",
@@ -13006,11 +13006,11 @@
       "key": "candidate-1287",
       "partie_key": "independent",
       "name": "Md Nurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1288": {
       "key": "candidate-1288",
@@ -13036,11 +13036,11 @@
       "key": "candidate-1290",
       "partie_key": "independent",
       "name": "Meer Mostak Ahmed Rabi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Swing.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Swing"
+      "symbol": ""
     },
     "candidate-1291": {
       "key": "candidate-1291",
@@ -13056,11 +13056,11 @@
       "key": "candidate-1292",
       "partie_key": "independent",
       "name": "Md Afsar Ali",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1293": {
       "key": "candidate-1293",
@@ -13096,11 +13096,11 @@
       "key": "candidate-1296",
       "partie_key": "independent",
       "name": "Ensan Bahar Bulbul",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1297": {
       "key": "candidate-1297",
@@ -13206,11 +13206,11 @@
       "key": "candidate-1307",
       "partie_key": "independent",
       "name": "Md Mizanur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1308": {
       "key": "candidate-1308",
@@ -13266,21 +13266,21 @@
       "key": "candidate-1313",
       "partie_key": "independent",
       "name": "Golam Sarwar Tuku",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1314": {
       "key": "candidate-1314",
       "partie_key": "independent",
       "name": "Md Khalilur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1315": {
       "key": "candidate-1315",
@@ -13316,21 +13316,21 @@
       "key": "candidate-1318",
       "partie_key": "independent",
       "name": "Md Nurul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1319": {
       "key": "candidate-1319",
       "partie_key": "independent",
       "name": "Golam Sarwar Forkan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1320": {
       "key": "candidate-1320",
@@ -13546,11 +13546,11 @@
       "key": "candidate-1341",
       "partie_key": "independent",
       "name": "Abul Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1342": {
       "key": "candidate-1342",
@@ -13566,11 +13566,11 @@
       "key": "candidate-1343",
       "partie_key": "independent",
       "name": "Abdullah AL Islam Liton",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1344": {
       "key": "candidate-1344",
@@ -13596,11 +13596,11 @@
       "key": "candidate-1346",
       "partie_key": "independent",
       "name": "Md Mahbubur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1347": {
       "key": "candidate-1347",
@@ -13726,11 +13726,11 @@
       "key": "candidate-1359",
       "partie_key": "independent",
       "name": "Md Jashimuddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1360": {
       "key": "candidate-1360",
@@ -13776,11 +13776,11 @@
       "key": "candidate-1364",
       "partie_key": "independent",
       "name": "Abul Foyez",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1365": {
       "key": "candidate-1365",
@@ -13856,11 +13856,11 @@
       "key": "candidate-1372",
       "partie_key": "independent",
       "name": "AK Faiyazul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1373": {
       "key": "candidate-1373",
@@ -13876,11 +13876,11 @@
       "key": "candidate-1374",
       "partie_key": "independent",
       "name": "Md Monirul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1375": {
       "key": "candidate-1375",
@@ -13906,21 +13906,21 @@
       "key": "candidate-1377",
       "partie_key": "independent",
       "name": "Md Atiqur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1378": {
       "key": "candidate-1378",
       "partie_key": "independent",
       "name": "Md Aminul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1379": {
       "key": "candidate-1379",
@@ -13956,11 +13956,11 @@
       "key": "candidate-1382",
       "partie_key": "independent",
       "name": "Pankaj Nath",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1383": {
       "key": "candidate-1383",
@@ -14006,11 +14006,11 @@
       "key": "candidate-1387",
       "partie_key": "independent",
       "name": "Md Salah Uddin Ripan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1388": {
       "key": "candidate-1388",
@@ -14066,11 +14066,11 @@
       "key": "candidate-1393",
       "partie_key": "independent",
       "name": "Md Shamsul Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1394": {
       "key": "candidate-1394",
@@ -14106,41 +14106,41 @@
       "key": "candidate-1397",
       "partie_key": "independent",
       "name": "Md Jakir Khan Sagor",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1398": {
       "key": "candidate-1398",
       "partie_key": "independent",
       "name": "Md Shahbaz Miah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1399": {
       "key": "candidate-1399",
       "partie_key": "independent",
       "name": "Md Kamrul Islam Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1400": {
       "key": "candidate-1400",
       "partie_key": "independent",
       "name": "Abul Kashem Md Fazlul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1401": {
       "key": "candidate-1401",
@@ -14176,11 +14176,11 @@
       "key": "candidate-1404",
       "partie_key": "independent",
       "name": "Md Moniruzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Watermelon.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Watermelon"
+      "symbol": ""
     },
     "candidate-1405": {
       "key": "candidate-1405",
@@ -14256,11 +14256,11 @@
       "key": "candidate-1412",
       "partie_key": "independent",
       "name": "AKMA Awal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1413": {
       "key": "candidate-1413",
@@ -14296,11 +14296,11 @@
       "key": "candidate-1416",
       "partie_key": "independent",
       "name": "Md Mohiuddin Moharaj",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1417": {
       "key": "candidate-1417",
@@ -14366,11 +14366,11 @@
       "key": "candidate-1423",
       "partie_key": "independent",
       "name": "Md Rustam Ali Farazi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Fish.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Fish"
+      "symbol": ""
     },
     "candidate-1424": {
       "key": "candidate-1424",
@@ -14386,11 +14386,11 @@
       "key": "candidate-1425",
       "partie_key": "independent",
       "name": "Md Shamim Shahnewaz",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Garland"
+      "symbol": ""
     },
     "candidate-1426": {
       "key": "candidate-1426",
@@ -14446,11 +14446,11 @@
       "key": "candidate-1431",
       "partie_key": "independent",
       "name": "Khandaker Anwarul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Banana Hand.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Banana Hand"
+      "symbol": ""
     },
     "candidate-1432": {
       "key": "candidate-1432",
@@ -14466,11 +14466,11 @@
       "key": "candidate-1433",
       "partie_key": "independent",
       "name": "Md Yunus Islam Talukdar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Canes.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Canes"
+      "symbol": ""
     },
     "candidate-1434": {
       "key": "candidate-1434",
@@ -14526,11 +14526,11 @@
       "key": "candidate-1439",
       "partie_key": "independent",
       "name": "Amanur Rahman Khan Rana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1440": {
       "key": "candidate-1440",
@@ -14576,11 +14576,11 @@
       "key": "candidate-1444",
       "partie_key": "independent",
       "name": "Abdul Latif Siddque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Fish.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Fish"
+      "symbol": ""
     },
     "candidate-1445": {
       "key": "candidate-1445",
@@ -14596,11 +14596,11 @@
       "key": "candidate-1446",
       "partie_key": "independent",
       "name": "Sarwar Siraj",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1447": {
       "key": "candidate-1447",
@@ -14656,11 +14656,11 @@
       "key": "candidate-1452",
       "partie_key": "independent",
       "name": "Murad Sidque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1453": {
       "key": "candidate-1453",
@@ -14696,21 +14696,21 @@
       "key": "candidate-1456",
       "partie_key": "independent",
       "name": "Md Sanwar Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1457": {
       "key": "candidate-1457",
       "partie_key": "independent",
       "name": "Md Jamilur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-1458": {
       "key": "candidate-1458",
@@ -14736,21 +14736,21 @@
       "key": "candidate-1460",
       "partie_key": "independent",
       "name": "Khandaker Ahsan Habib",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1461": {
       "key": "candidate-1461",
       "partie_key": "independent",
       "name": "Muhammad Ashraful Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1462": {
       "key": "candidate-1462",
@@ -14786,11 +14786,11 @@
       "key": "candidate-1465",
       "partie_key": "independent",
       "name": "Tarek Shams Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-1466": {
       "key": "candidate-1466",
@@ -14836,11 +14836,11 @@
       "key": "candidate-1470",
       "partie_key": "independent",
       "name": "Meer Enayet Hossain Montu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1471": {
       "key": "candidate-1471",
@@ -15006,11 +15006,11 @@
       "key": "candidate-1487",
       "partie_key": "independent",
       "name": "Md Ziaul Haque Zia",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1488": {
       "key": "candidate-1488",
@@ -15036,11 +15036,11 @@
       "key": "candidate-1490",
       "partie_key": "independent",
       "name": "Md Shahjahan Ali Mandal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1491": {
       "key": "candidate-1491",
@@ -15096,11 +15096,11 @@
       "key": "candidate-1496",
       "partie_key": "independent",
       "name": "Md Murad hasan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1497": {
       "key": "candidate-1497",
@@ -15116,11 +15116,11 @@
       "key": "candidate-1498",
       "partie_key": "independent",
       "name": "Md Abdur Rashid",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Bicycle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Bicycle"
+      "symbol": ""
     },
     "candidate-1500": {
       "key": "candidate-1500",
@@ -15166,11 +15166,11 @@
       "key": "candidate-1504",
       "partie_key": "independent",
       "name": "Md Rezaul Karim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1505": {
       "key": "candidate-1505",
@@ -15236,11 +15236,11 @@
       "key": "candidate-1511",
       "partie_key": "independent",
       "name": "Md Sanuar Hossain Sanu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1512": {
       "key": "candidate-1512",
@@ -15286,11 +15286,11 @@
       "key": "candidate-1516",
       "partie_key": "independent",
       "name": "Syed Muhammad Saeed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1517": {
       "key": "candidate-1517",
@@ -15316,11 +15316,11 @@
       "key": "candidate-1519",
       "partie_key": "independent",
       "name": "Md Iqbal Ahsan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1520": {
       "key": "candidate-1520",
@@ -15336,11 +15336,11 @@
       "key": "candidate-1521",
       "partie_key": "independent",
       "name": "SM Abdullah Warez Nayeem",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1522": {
       "key": "candidate-1522",
@@ -15416,11 +15416,11 @@
       "key": "candidate-1529",
       "partie_key": "independent",
       "name": "Mamudul Haque Sayem",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1530": {
       "key": "candidate-1530",
@@ -15476,11 +15476,11 @@
       "key": "candidate-1535",
       "partie_key": "independent",
       "name": "Shah Shahid Sarowar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Canes.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Canes"
+      "symbol": ""
     },
     "candidate-1536": {
       "key": "candidate-1536",
@@ -15496,21 +15496,21 @@
       "key": "candidate-1537",
       "partie_key": "independent",
       "name": "Md Morsheduzzaman Selim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1538": {
       "key": "candidate-1538",
       "partie_key": "independent",
       "name": "Shomnath Saha",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1539": {
       "key": "candidate-1539",
@@ -15526,31 +15526,31 @@
       "key": "candidate-1540",
       "partie_key": "independent",
       "name": "Md Sharif Hasan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Bicycle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Bicycle"
+      "symbol": ""
     },
     "candidate-1541": {
       "key": "candidate-1541",
       "partie_key": "independent",
       "name": "Naznin Alam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Minar.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Minar"
+      "symbol": ""
     },
     "candidate-1542": {
       "key": "candidate-1542",
       "partie_key": "independent",
       "name": "Romiz Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1543": {
       "key": "candidate-1543",
@@ -15586,21 +15586,21 @@
       "key": "candidate-1546",
       "partie_key": "independent",
       "name": "Delwar Hossain Khan Dulu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1547": {
       "key": "candidate-1547",
       "partie_key": "independent",
       "name": "Md Aminul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Kettle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Kettle"
+      "symbol": ""
     },
     "candidate-1548": {
       "key": "candidate-1548",
@@ -15756,31 +15756,31 @@
       "key": "candidate-1563",
       "partie_key": "independent",
       "name": "Md Abdul Malek Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1564": {
       "key": "candidate-1564",
       "partie_key": "independent",
       "name": "Khandaker Rafiqul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Hammer.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Hammer"
+      "symbol": ""
     },
     "candidate-1565": {
       "key": "candidate-1565",
       "partie_key": "independent",
       "name": "Selima Begum",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1566": {
       "key": "candidate-1566",
@@ -15816,11 +15816,11 @@
       "key": "candidate-1569",
       "partie_key": "independent",
       "name": "ABM Anisuzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1570": {
       "key": "candidate-1570",
@@ -15846,31 +15846,31 @@
       "key": "candidate-1572",
       "partie_key": "independent",
       "name": "Mahmud Hasan Suman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1573": {
       "key": "candidate-1573",
       "partie_key": "independent",
       "name": "Md Baul Alam Pradip",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Gamcha.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Gamcha"
+      "symbol": ""
     },
     "candidate-1574": {
       "key": "candidate-1574",
       "partie_key": "independent",
       "name": "Kaniz Fatema",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1575": {
       "key": "candidate-1575",
@@ -15886,11 +15886,11 @@
       "key": "candidate-1576",
       "partie_key": "independent",
       "name": "Anwarul Abedin Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1577": {
       "key": "candidate-1577",
@@ -15986,21 +15986,21 @@
       "key": "candidate-1586",
       "partie_key": "independent",
       "name": "Md Golam Mostafa",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-1587": {
       "key": "candidate-1587",
       "partie_key": "independent",
       "name": "Md Abdul Wahed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1588": {
       "key": "candidate-1588",
@@ -16056,21 +16056,21 @@
       "key": "candidate-1593",
       "partie_key": "independent",
       "name": "Aftab Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1594": {
       "key": "candidate-1594",
       "partie_key": "independent",
       "name": "Jannatul Ferdous Ara",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1595": {
       "key": "candidate-1595",
@@ -16096,11 +16096,11 @@
       "key": "candidate-1597",
       "partie_key": "independent",
       "name": "Arif Khan Joy",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1598": {
       "key": "candidate-1598",
@@ -16136,11 +16136,11 @@
       "key": "candidate-1601",
       "partie_key": "independent",
       "name": "Shubrata Chana Sarkar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1602": {
       "key": "candidate-1602",
@@ -16166,21 +16166,21 @@
       "key": "candidate-1604",
       "partie_key": "independent",
       "name": "Iftikar Uddin Talukdar Pintu",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1605": {
       "key": "candidate-1605",
       "partie_key": "independent",
       "name": "Manjur Kader Quraishi",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1606": {
       "key": "candidate-1606",
@@ -16276,11 +16276,11 @@
       "key": "candidate-1615",
       "partie_key": "independent",
       "name": "Md Anwar Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1616": {
       "key": "candidate-1616",
@@ -16296,11 +16296,11 @@
       "key": "candidate-1617",
       "partie_key": "independent",
       "name": "Syed Safayetul Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Torch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Torch"
+      "symbol": ""
     },
     "candidate-1618": {
       "key": "candidate-1618",
@@ -16366,11 +16366,11 @@
       "key": "candidate-1624",
       "partie_key": "independent",
       "name": "Md Sohrab Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1625": {
       "key": "candidate-1625",
@@ -16386,11 +16386,11 @@
       "key": "candidate-1626",
       "partie_key": "independent",
       "name": "Md Akteruzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1627": {
       "key": "candidate-1627",
@@ -16426,31 +16426,31 @@
       "key": "candidate-1630",
       "partie_key": "independent",
       "name": "Md Mahfuzul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Fish.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Fish"
+      "symbol": ""
     },
     "candidate-1631": {
       "key": "candidate-1631",
       "partie_key": "independent",
       "name": "Md Nasimul Haque",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1632": {
       "key": "candidate-1632",
       "partie_key": "independent",
       "name": "Md Golam Kibria Bhuiyan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1633": {
       "key": "candidate-1633",
@@ -16476,11 +16476,11 @@
       "key": "candidate-1635",
       "partie_key": "independent",
       "name": "Md Rubel Miah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1636": {
       "key": "candidate-1636",
@@ -16566,11 +16566,11 @@
       "key": "candidate-1644",
       "partie_key": "independent",
       "name": "Shubrata Paul",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1645": {
       "key": "candidate-1645",
@@ -16666,11 +16666,11 @@
       "key": "candidate-1654",
       "partie_key": "independent",
       "name": "Md Abdus Sattar",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1655": {
       "key": "candidate-1655",
@@ -16706,11 +16706,11 @@
       "key": "candidate-1658",
       "partie_key": "independent",
       "name": "Salahuddin Mahmud",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-1659": {
       "key": "candidate-1659",
@@ -16756,41 +16756,41 @@
       "key": "candidate-1663",
       "partie_key": "independent",
       "name": "Shahab Uddin Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Anchor.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Anchor"
+      "symbol": ""
     },
     "candidate-1664": {
       "key": "candidate-1664",
       "partie_key": "independent",
       "name": "Dewan Zahid Ahmed",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Fish.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Fish"
+      "symbol": ""
     },
     "candidate-1665": {
       "key": "candidate-1665",
       "partie_key": "independent",
       "name": "Dewan Shafiul Arefin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1666": {
       "key": "candidate-1666",
       "partie_key": "independent",
       "name": "Mushfiqur Rahman Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Garland"
+      "symbol": ""
     },
     "candidate-1667": {
       "key": "candidate-1667",
@@ -16956,11 +16956,11 @@
       "key": "candidate-1683",
       "partie_key": "independent",
       "name": "Golam Sarwar Kabir",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1684": {
       "key": "candidate-1684",
@@ -17016,11 +17016,11 @@
       "key": "candidate-1689",
       "partie_key": "independent",
       "name": "Sohana Tahmina",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Green Coconut.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Green Coconut"
+      "symbol": ""
     },
     "candidate-1690": {
       "key": "candidate-1690",
@@ -17046,11 +17046,11 @@
       "key": "candidate-1692",
       "partie_key": "independent",
       "name": "Md Sairaz Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1693": {
       "key": "candidate-1693",
@@ -17126,31 +17126,31 @@
       "key": "candidate-1700",
       "partie_key": "independent",
       "name": "Chowdhury Fahria Afrin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1701": {
       "key": "candidate-1701",
       "partie_key": "independent",
       "name": "Mohammad Faisal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1702": {
       "key": "candidate-1702",
       "partie_key": "independent",
       "name": "Md Azim Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-1703": {
       "key": "candidate-1703",
@@ -17256,11 +17256,11 @@
       "key": "candidate-1713",
       "partie_key": "independent",
       "name": "Habibur Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Fish.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Fish"
+      "symbol": ""
     },
     "candidate-1714": {
       "key": "candidate-1714",
@@ -17316,11 +17316,11 @@
       "key": "candidate-1719",
       "partie_key": "independent",
       "name": "Md Ali Reza",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1720": {
       "key": "candidate-1720",
@@ -17346,11 +17346,11 @@
       "key": "candidate-1722",
       "partie_key": "independent",
       "name": "Md Awlad Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1723": {
       "key": "candidate-1723",
@@ -17396,11 +17396,11 @@
       "key": "candidate-1727",
       "partie_key": "independent",
       "name": "Md Monir Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1728": {
       "key": "candidate-1728",
@@ -17516,21 +17516,21 @@
       "key": "candidate-1739",
       "partie_key": "independent",
       "name": "Md Kamrul Hasan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-1740": {
       "key": "candidate-1740",
       "partie_key": "independent",
       "name": "Moshirur Rahman Mollah Sajal",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1741": {
       "key": "candidate-1741",
@@ -18156,21 +18156,21 @@
       "key": "candidate-1803",
       "partie_key": "independent",
       "name": "Md Mohibullah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-1804": {
       "key": "candidate-1804",
       "partie_key": "independent",
       "name": "Sabina Akhtar Tuhin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Candle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Candle"
+      "symbol": ""
     },
     "candidate-1805": {
       "key": "candidate-1805",
@@ -18186,31 +18186,31 @@
       "key": "candidate-1806",
       "partie_key": "independent",
       "name": "ZI Russel",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1807": {
       "key": "candidate-1807",
       "partie_key": "independent",
       "name": "Md Emrul Kayes Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1808": {
       "key": "candidate-1808",
       "partie_key": "independent",
       "name": "Md Lutfor Rahman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     },
     "candidate-1809": {
       "key": "candidate-1809",
@@ -18356,11 +18356,11 @@
       "key": "candidate-1823",
       "partie_key": "independent",
       "name": "Salahuddin Rabin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-1824": {
       "key": "candidate-1824",
@@ -18396,11 +18396,11 @@
       "key": "candidate-1827",
       "partie_key": "independent",
       "name": "Arafat Ashwad Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-1828": {
       "key": "candidate-1828",
@@ -18476,11 +18476,11 @@
       "key": "candidate-1835",
       "partie_key": "independent",
       "name": "Md Bashir Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1836": {
       "key": "candidate-1836",
@@ -18506,31 +18506,31 @@
       "key": "candidate-1838",
       "partie_key": "independent",
       "name": "Md Nazim Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Plough.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Plough"
+      "symbol": ""
     },
     "candidate-1839": {
       "key": "candidate-1839",
       "partie_key": "independent",
       "name": "SM Tofazzal Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Wristwatch.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Wristwatch"
+      "symbol": ""
     },
     "candidate-1840": {
       "key": "candidate-1840",
       "partie_key": "independent",
       "name": "Md Khasru Chowdhury",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Television.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Television"
+      "symbol": ""
     },
     "candidate-1841": {
       "key": "candidate-1841",
@@ -18556,21 +18556,21 @@
       "key": "candidate-1843",
       "partie_key": "independent",
       "name": "Md Saiful Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Canes.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Canes"
+      "symbol": ""
     },
     "candidate-1844": {
       "key": "candidate-1844",
       "partie_key": "independent",
       "name": "Talukdar Md Touhid Jong",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Golden Fibre.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Golden Fibre"
+      "symbol": ""
     },
     "candidate-1845": {
       "key": "candidate-1845",
@@ -18656,11 +18656,11 @@
       "key": "candidate-1853",
       "partie_key": "independent",
       "name": "Mohaddes Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1854": {
       "key": "candidate-1854",
@@ -18696,11 +18696,11 @@
       "key": "candidate-1857",
       "partie_key": "independent",
       "name": "MA Malek",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Jackfruit.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Jackfruit"
+      "symbol": ""
     },
     "candidate-1858": {
       "key": "candidate-1858",
@@ -18756,11 +18756,11 @@
       "key": "candidate-1863",
       "partie_key": "independent",
       "name": "Rezaul Karim",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Mango.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Mango"
+      "symbol": ""
     },
     "candidate-1864": {
       "key": "candidate-1864",
@@ -18846,21 +18846,21 @@
       "key": "candidate-1872",
       "partie_key": "independent",
       "name": "Md Saiful Islam",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Boat.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Boat"
+      "symbol": ""
     },
     "candidate-1873": {
       "key": "candidate-1873",
       "partie_key": "independent",
       "name": "kazi Alim Uddin",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Garland.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Garland"
+      "symbol": ""
     },
     "candidate-1874": {
       "key": "candidate-1874",
@@ -18916,21 +18916,21 @@
       "key": "candidate-1879",
       "partie_key": "independent",
       "name": "Md Iqbal Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1880": {
       "key": "candidate-1880",
       "partie_key": "independent",
       "name": "AKM Shakhawat Hossain Khan",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1881": {
       "key": "candidate-1881",
@@ -18986,11 +18986,11 @@
       "key": "candidate-1886",
       "partie_key": "independent",
       "name": "Shamsul Haq",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1887": {
       "key": "candidate-1887",
@@ -19056,17 +19056,17 @@
       "key": "candidate-1893",
       "partie_key": "independent",
       "name": "Akhtar Uzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Truck.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Truck"
+      "symbol": ""
     },
     "candidate-1894": {
       "key": "candidate-1894",
       "partie_key": "independent",
       "name": "Amzad Hossain",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
@@ -19096,11 +19096,11 @@
       "key": "candidate-1897",
       "partie_key": "independent",
       "name": "Md Kamruzzaman",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Chair.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Chair"
+      "symbol": ""
     },
     "candidate-1898": {
       "key": "candidate-1898",
@@ -19136,11 +19136,11 @@
       "key": "candidate-1901",
       "partie_key": "independent",
       "name": "Md Zakaria",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1902": {
       "key": "candidate-1902",
@@ -19166,11 +19166,11 @@
       "key": "candidate-1904",
       "partie_key": "independent",
       "name": "Masum Billah",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Eagle.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Eagle"
+      "symbol": ""
     },
     "candidate-1905": {
       "key": "candidate-1905",
@@ -19186,11 +19186,11 @@
       "key": "candidate-1906",
       "partie_key": "independent",
       "name": "Afroza Sultana",
-      "photo": "/sites/all/modules/custom/rsi_election/widgets/election2024/bd-svg/symbol/Ektara.jpg",
+      "photo": "",
       "affidabte": "",
       "details": "",
       "vote_received": 1111,
-      "symbol": "Ektara"
+      "symbol": ""
     }
   },
   "divisions": {
@@ -21934,12 +21934,24 @@
           "short_des": "",
           "candidates": [
             "candidate-772",
-            "candidate-773",
             "candidate-774",
             "candidate-775",
             "candidate-776",
             "candidate-777",
             "candidate-778"
+          ]
+        },
+        "kuriglam_3": {
+          "key": "kuriglam_3",
+          "name": "Kuriglam-3",
+          "seat_no": "",
+          "voter": 1111,
+          "male_voter": 1111,
+          "female_voter": 1111,
+          "svg_path": "",
+          "short_des": "",
+          "candidates": [
+            "candidate-773"
           ]
         },
         "kurigram_4": {
@@ -22272,8 +22284,8 @@
       "male_voter": 11111,
       "female_voter": 11111,
       "seats": {
-        "chipainawabganj_1": {
-          "key": "chipainawabganj_1",
+        "chapainawabganj_1": {
+          "key": "chapainawabganj_1",
           "name": "Chapainawabganj-1",
           "seat_no": "",
           "voter": 1111,
@@ -22288,36 +22300,12 @@
             "candidate-892",
             "candidate-893",
             "candidate-894",
-            "candidate-895"
-          ]
-        },
-        "chipainawabganj_2": {
-          "key": "chipainawabganj_2",
-          "name": "Chapainawabganj-2",
-          "seat_no": "",
-          "voter": 1111,
-          "male_voter": 1111,
-          "female_voter": 1111,
-          "svg_path": "",
-          "short_des": "",
-          "candidates": [
+            "candidate-895",
             "candidate-896",
             "candidate-897",
             "candidate-898",
             "candidate-899",
-            "candidate-900"
-          ]
-        },
-        "chipainawabganj_3": {
-          "key": "chipainawabganj_3",
-          "name": "Chapainawabganj-3",
-          "seat_no": "",
-          "voter": 1111,
-          "male_voter": 1111,
-          "female_voter": 1111,
-          "svg_path": "",
-          "short_des": "",
-          "candidates": [
+            "candidate-900",
             "candidate-901",
             "candidate-902",
             "candidate-903",
@@ -25476,13 +25464,13 @@
       "key": "total_candidates",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_candi.png",
       "title": "Total Candidates",
-      "count": "1,970"
+      "count": "1,895"
     },
     {
       "key": "total_parties",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/parties.png",
       "title": "Total Parties",
-      "count": "28"
+      "count": "27"
     }
   ]
 }
