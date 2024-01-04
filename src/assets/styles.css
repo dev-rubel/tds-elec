@@ -401,3 +401,7 @@ polyline:hover {
 .section2-top .card {
   border: 1px solid #ccc !important;
 }
+
+.section1-top .grid-x {
+  border: 1px solid #ccc !important;
+}
