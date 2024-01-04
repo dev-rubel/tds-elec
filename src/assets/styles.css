@@ -161,6 +161,16 @@ div#root {
   border   : 1px solid #45c6ff;
   padding  : 5px;
   font-size: 14px;
+  color:#fff;
+  background-color: #45c6ff;
+}
+
+.section3 .right-top-section .details a.details-link:hover {
+  border   : 1px solid #45c6ff;
+  padding  : 5px;
+  font-size: 14px;
+  color:#45c6ff;
+  background-color: #fff;
 }
 
 .section3 .parti-list .cell p {
