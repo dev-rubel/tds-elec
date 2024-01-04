@@ -34,18 +34,18 @@ div#root {
 
 @media only screen and (max-width: 767px) {
   .grid-x.banner-img-1 {
-    background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/tds-election-main-banner.png');
+    background     : url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/tds-election-main-banner.png');
     background-size: contain;
   }
 
   .grid-x.banner-img-2 {
-    background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/election-district-mobile.png');
+    background     : url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/election-district-mobile.png');
     background-size: contain;
   }
 
   .grid-x.top-banner h1.title {
-    color: #e8e8e8;
-    font-size: 9vw;
+    color     : #e8e8e8;
+    font-size : 9vw;
     margin-top: 0.5rem;
   }
 }
@@ -158,18 +158,18 @@ div#root {
 }
 
 .section3 .right-top-section .details a.details-link {
-  border   : 1px solid #45c6ff;
-  padding  : 5px;
-  font-size: 14px;
-  color:#fff;
+  border          : 1px solid #45c6ff;
+  padding         : 5px;
+  font-size       : 14px;
+  color           : #fff;
   background-color: #45c6ff;
 }
 
 .section3 .right-top-section .details a.details-link:hover {
-  border   : 1px solid #45c6ff;
-  padding  : 5px;
-  font-size: 14px;
-  color:#45c6ff;
+  border          : 1px solid #45c6ff;
+  padding         : 5px;
+  font-size       : 14px;
+  color           : #45c6ff;
   background-color: #fff;
 }
 
@@ -338,6 +338,7 @@ polyline:hover {
 .card {
   margin-bottom: 1rem !important;
   margin-top   : 1rem !important;
+  border       : none !important;
 }
 
 .card .card-section p {
@@ -378,3 +379,25 @@ polyline:hover {
 }
 
 /* TIPS */
+
+/* News  */
+
+.right-top-section .cell .card {
+  border: 1px solid #e6e6e6 !important;
+}
+
+.card .card-content .title a {
+  border     : none !important;
+  font-family: "Noto Serif JP"serif;
+  font-size  : 24px;
+  font-style : normal;
+  color      : inherit;
+}
+
+.card .card-content .title {
+  line-height: 24px !important;
+}
+
+.section2-top .card {
+  border: 1px solid #ccc !important;
+}
