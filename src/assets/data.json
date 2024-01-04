@@ -25476,13 +25476,13 @@
       "key": "total_candidates",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/total_candi.png",
       "title": "Total Candidates",
-      "count": "1,895"
+      "count": "1,970"
     },
     {
       "key": "total_parties",
       "icon": "/sites/all/modules/custom/rsi_election/widgets/election2024/top-total-section/parties.png",
       "title": "Total Parties",
-      "count": "27"
+      "count": "28"
     }
   ]
 }

@@ -15,7 +15,7 @@ div#root {
 }
 
 .grid-x.banner-img-1 {
-  background         : url(https://online.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
+  background         : url(https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
   padding            : 0px 0px;
   margin             : 10px 0px;
   background-repeat  : no-repeat !important;
@@ -30,6 +30,24 @@ div#root {
   background-repeat  : no-repeat !important;
   background-position: left !important;
   min-height         : 130px;
+}
+
+@media only screen and (max-width: 767px) {
+  .grid-x.banner-img-1 {
+    background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/tds-election-main-banner.png');
+    background-size: contain;
+  }
+
+  .grid-x.banner-img-2 {
+    background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/election-district-mobile.png');
+    background-size: contain;
+  }
+
+  .grid-x.top-banner h1.title {
+    color: #e8e8e8;
+    font-size: 9vw;
+    margin-top: 0.5rem;
+  }
 }
 
 .section1 {
