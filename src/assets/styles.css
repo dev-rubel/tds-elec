@@ -388,10 +388,10 @@ polyline:hover {
 
 .card .card-content .title a {
   border     : none !important;
-  font-family: "Noto Serif JP"serif;
-  font-size  : 24px;
+  font-size  : 20px;
   font-style : normal;
   color      : inherit;
+  font-weight: 500;
 }
 
 .card .card-content .title {
