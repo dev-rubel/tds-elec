@@ -12,6 +12,7 @@ import {
 import Root from "./layouts/Root";
 import Home from "./home/Home";
 import Details from "./details/Details";
+import { AnimatePresence } from "framer-motion";
 
 const router = createHashRouter([
   {
@@ -32,6 +33,10 @@ const router = createHashRouter([
 ]);
 
 export default function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <AnimatePresence mode="wait">
+      <RouterProvider router={router} />;
+    </AnimatePresence>
+  )
 }
 

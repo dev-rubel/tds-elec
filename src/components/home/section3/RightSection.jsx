@@ -4,7 +4,7 @@ import RightTop from "./RightTop";
 import TdsContext from "./../../context/DefaultContext";
 import RightTopNotFound from "./RightTopNotFound";
 export default function RightSection() {
-  const { jsonData, selectedDistrict } = useContext(TdsContext);
+  const { jsonData, selectedDistrict, checkIfExceptionExist } = useContext(TdsContext);
   const [parties, setParties] = useState([]);
 
   useEffect(() => {
@@ -32,7 +32,7 @@ export default function RightSection() {
           Object.keys(selectedDistrict.seats).length !== 0 &&
           Object.entries(selectedDistrict.seats).map(([key, item]) => {
             let tempParte = majorParties(item);
-            return <RightTop item={item} parties={tempParte} key={key} />;
+            return <RightTop item={item} parties={tempParte} key={key} checkIfExceptionExist={checkIfExceptionExist} />;
           })}
 
         {/* right top not found */}
@@ -41,7 +41,7 @@ export default function RightSection() {
 
       {/* right bottom */}
       <div className="grid-x right-bottom-section">
-        <RightBottom parties={parties} />
+        <RightBottom parties={parties} checkIfExceptionExist={checkIfExceptionExist} />
       </div>
     </>
   );

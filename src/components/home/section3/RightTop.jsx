@@ -1,16 +1,21 @@
 import { Link } from "react-router-dom";
 
-export default function RightTop({ item, parties }) {
+export default function RightTop({ item, parties, checkIfExceptionExist }) {
 
   const getPartieName = (name) => {
+    let temp;
     let tname = name.replaceAll('_',' '); 
     if(name.length > 3 && tname.split(' ').length > 1) {
       let matches = tname.match(/\b(\w)/g); // ['J','S','O','N']
       let acronym = matches.join(''); // JSON
-      return acronym.toUpperCase();
+      temp = acronym.toUpperCase();
+      return checkIfExceptionExist(temp)  
     }
-    return name.substring(0,3).toUpperCase();
+    temp = name.substring(0,3).toUpperCase();
+    return checkIfExceptionExist(temp)
   }
+
+
   return (    
     <>
       <div className="cell small-12 medium-6 offset-medium-2">

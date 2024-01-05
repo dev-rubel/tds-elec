@@ -3,12 +3,17 @@ import Map from './Map'
 import Parties from './Parties'
 import CountNumbers from './CountNumbers'
 import DetailsContext from '../../context/DetailsContext';
+import { motion as m } from "framer-motion";
 
 function SeatInfo() {
     const { selectedSeat, mapSrc, mapSrcId } = useContext(DetailsContext);
     
     return (
-        <div className="grid-x grid-margin-x grid-margin-y seatinfo">
+        <m.div
+        initial={{ opacity: 0 }} 
+        animate={{ opacity: 1 }} 
+        transition={{ duration: 0.75, ease: "easeInOut" }} 
+        className="grid-x grid-margin-x grid-margin-y seatinfo">
             <div className="map cell medium-5 large-5 small-12 medium-offset-1" >
                 <Map selectedSeat={selectedSeat} mapSrc={mapSrc} key={mapSrcId} divid={mapSrcId} />
             </div>
@@ -19,7 +24,7 @@ function SeatInfo() {
                 <CountNumbers selectedSeat={selectedSeat} />
             </div> */}
             
-        </div>
+        </m.div>
     )
 }
 

@@ -15,6 +15,9 @@ export const ContextProvider = ({ children }) => {
   const [bannerTitle, setBannerTitle] = useState('')
   const [onDetailPage, setOnDetailPage] = useState(false)
   const [selectedSeat, setSelectedSeat] = useState('')
+  const partyNameExceptions = {
+    'bal': 'AL'
+  }
 
   const changeDivision = (item) => {
     // e.preventDefault();
@@ -60,6 +63,14 @@ export const ContextProvider = ({ children }) => {
     }
   }, [location, selectedDistrict]);
 
+  // parties name exception
+  const checkIfExceptionExist = (text) => {
+    if(partyNameExceptions[text.toLowerCase()] !== undefined) {
+      return partyNameExceptions[text.toLowerCase()];
+    }
+    return text;
+  }
+
   return (
     <TdsContext.Provider
       value={{
@@ -73,6 +84,7 @@ export const ContextProvider = ({ children }) => {
         selectedSeat, setSelectedSeat,
         selectedDivision,
         selectedDistrict,
+        checkIfExceptionExist,
         districts, setDistricts,
         bannerTitle, setBannerTitle,
         onDetailPage, setOnDetailPage

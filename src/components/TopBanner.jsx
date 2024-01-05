@@ -1,6 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react'
 import TdsContext from './context/DefaultContext';
 import { useLocation } from 'react-router-dom';
+import { motion as m } from "framer-motion";
 
 function TopBanner({ title }) {
   const location = useLocation();
@@ -17,11 +18,16 @@ function TopBanner({ title }) {
   }, [selectedSeat, location, isDetailsPage])
   
   return (
-    <div className={"grid-x grid-margin-y top-banner text-center banner-img-" + (!isDetailsPage?'1':'2')}>
+    <m.div
+      initial={{ opacity: 0 }} 
+      animate={{ opacity: 1 }} 
+      transition={{ duration: 0.75, ease: "easeInOut" }} 
+      className={"grid-x grid-margin-y top-banner text-center banner-img-" + (!isDetailsPage?'1':'2')}
+    >
       <div className="cell auto">
         <h1 className={`title ${!isDetailsPage?'hide':''}`}>{bannerTitle}</h1>
       </div>
-    </div>
+    </m.div>
   )
 }
 
