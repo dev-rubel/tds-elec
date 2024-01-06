@@ -46,7 +46,10 @@ export default function RightBottom({ parties, checkIfExceptionExist }) {
       <div className="cell small-12 medium-12">
         <a href="https://www.facebook.com/DailyStarNews" target="_blank">
           {" "}
-          <img src="/ElectionBanner.png" alt="Election Banner" />
+          <img
+            src="https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/07/fb-elecbanner.png"
+            alt="Election Banner"
+          />
         </a>
       </div>
     </>
