@@ -17,7 +17,7 @@ export default function MapSvg() {
       <iframe
         src="https://datawrapper.dwcdn.net/Oa7BN/4/"
         allowFullScreen
-        style={{ width: "100%", height: "100%" }}
+        style={{ width: "100%", height: "72%" }}
       ></iframe>
     </>
   );
