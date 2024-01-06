@@ -21,6 +21,7 @@ export default function RightBottom({ parties, checkIfExceptionExist }) {
 
 
   return (
+    <>
     <div className="cell small-12 medium-12">
       <div className="card">
         <div className="card-section">
@@ -41,5 +42,10 @@ export default function RightBottom({ parties, checkIfExceptionExist }) {
         )}
       </div>
     </div>
+
+    <div className="cell small-12 medium-12">
+      <img src="/ElectionBanner.png" alt="Election Banner" />
+    </div>
+    </>
   );
 }

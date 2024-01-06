@@ -47,7 +47,10 @@ function Map({selectedSeat, mapSrc, divid}) {
               tool={tool} onChangeTool={setTool}
               value={value} onChangeValue={setValue}
               detectAutoPan={false}
+              detectWheel={false}
+              detectPinchGesture={false}
               toolbarProps={{position: POSITION_RIGHT}}
+              miniatureProps={{position: 'none'}}
               onClick={event => {
                 // console.log('click', event.originalEvent, event.originalEvent.target.parentElement.id)
                 let seat = event.originalEvent.target.parentElement.id

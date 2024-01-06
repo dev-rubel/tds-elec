@@ -3,61 +3,71 @@
 	text-align: center;
 }
 div#root {
-	min-height: 115rem;
+	min-height: 105rem;
 }
-.grid-x {
-	&.top-banner {    
-		h1 {
-			&.title {
-				color: #fff;
-				font-size: 70px;
-				font-size: 4.5vw;
-				font-weight: bold;
-			}
-		}
-	}
-	&.banner-img-1 {
-		background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://online.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png);
-		padding: 0px 0px;
-    margin: 10px 0px;
-    background-repeat: no-repeat !important;
-    background-position: left !important;
-    min-height: 130px;
-	}
-	&.banner-img-2 {
-		background: linear-gradient(0deg, rgba(48, 127, 83, 0.3), rgba(48, 127, 83, 0.3)), url(https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/distric-bg.png);
-		padding: 0px 0px;
-    margin: 10px 0px;
-    background-repeat: no-repeat !important;
-    background-position: left !important;
-    min-height: 130px;
-	}
+.grid-x.top-banner h1.title {
+	color: #45c6ff;
+	font-size: 70px;
+	font-size: 4.5vw;
+	font-weight: bold;
+}
+.grid-x.banner-img-1 {
+	background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/election-banner.png');
+	padding: 0px 0px;
+	margin: 10px 0px;
+	background-repeat: no-repeat ;
+	background-position: left ;
+	min-height: 130px;
+}
+.grid-x.banner-img-2 {
+	background: url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/03/distric-bg.png');
+	padding: 0px 0px;
+	margin: 10px 0px;
+	background-repeat: no-repeat ;
+	background-position: left ;
+	min-height: 130px;
+}
+@media only screen and (max-width: 767px) {
+  .grid-x.banner-img-1 {
+    background     : url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/tds-election-main-banner.png');
+    background-size: contain;
+  }
+
+  .grid-x.banner-img-2 {
+    background     : url('https://tds-images.thedailystar.net/sites/default/files/uploads/2024/01/04/election-district-mobile.png');
+    background-size: contain;
+  }
+
+  .grid-x.top-banner h1.title {
+    color     : #e8e8e8;
+    font-size : 9vw;
+    margin-top: 0.5rem;
+  }
 }
 .section1 {
 	margin-top: 15px;
-	.card-section {
-		&.section1-top {
-			padding: 0;
-			.icon {
-				display: flex;
-				align-items: center;
-				background-color: #F6F6F6;
-				p {
-					text-align: center;
-					width: 100%;
-				}
-			}
-			.text {
+	.card-section.section1-top {
+		padding: 0;
+		.icon {
+			display: flex;
+			align-items: center;
+			background-color: #F6F6F6;
+			p {
 				text-align: center;
-				p {
-					&:first-child {
-						font-size: 10px;
-						margin: 0;
-						margin-top: 15px;
-					}
-				}
+				width: 100%;
 			}
 		}
+		.text {
+			text-align: center;
+			p:first-child {
+				font-size: 10px;
+				margin: 0;
+				margin-top: 15px;
+			}
+		}
+	}
+	&-top .grid-x {
+		border: 1px solid #ccc ;
 	}
 }
 .section2 {
@@ -78,24 +88,22 @@ div#root {
 			align-items: end;
 		}
 	}
-	.card-section {
-		&.active {
-			background-color: #46c6ff;
-		}
+	.card-section.active {
+		background-color: #46c6ff;
 	}
-	a {
-		.card-section {
-			&.active {
-				text-decoration: none;
-				color: #fff;
-				font-weight: bold;
-			}
-		}
+	a .card-section.active {
+		text-decoration: none;
+		color: #fff;
+		font-weight: bold;
+	}
+	&-top .card {
+		border: 1px solid #ccc ;
 	}
 }
 .section3 {
 	margin-top: 15px;
 	.left-section {
+		max-height: -moz-max-content;
 		max-height: max-content;
 		p {
 			width: 100%;
@@ -112,109 +120,86 @@ div#root {
 			padding-bottom: 15px;
 		}
 	}
-	.grid-margin-x {
-		&.right-top-section {
-			max-height: 500px;
-			overflow: overlay;
-		}
+	.grid-margin-x.right-top-section {
+		max-height: 500px;
+		overflow: overlay;
 	}
-	.right-top-section {
-		.card {
-			p {
-				&.title {
-					font-size: 20px;
-					font-weight: bold;
-					color: #46c6ff;
-				}
-			}
-		}
-		.details {
-			text-align: right;
-			position: absolute;
-			right: 5%;
-			bottom: 5%;
-			a {
-				&.details-link {
-					border: 1px solid #45c6ff;
-					padding: 5px;
-					font-size: 14px;
-				}
-			}
-		}
+	.right-top-section .card p.title {
+		font-size: 20px;
+		font-weight: bold;
+		color: #46c6ff;
 	}
-	.parti-list {
-		.cell {
-			p {
-				border: 1px solid #ccc;
-				padding: 0px;
-				text-align: center;
+	.right-top-section .details {
+		text-align: right;
+		position: absolute;
+		right: 5%;
+		bottom: 5%;
+		a.details-link {
+			border: 1px solid #45c6ff;
+			padding: 5px;
+			font-size: 14px;
+			color: #fff;
+			background-color: #45c6ff;
+			&:hover {
+				border: 1px solid #45c6ff;
+				padding: 5px;
 				font-size: 14px;
-				margin-bottom: 10px;
+				color: #45c6ff;
+				background-color: #fff;
 			}
 		}
 	}
-	.right-section {
-		.right-top-section {
-			.card-section {
-				min-height: 260px;
-			}
-		}
+	.parti-list .cell p {
+		border: 1px solid #ccc;
+		padding: 0px;
+		text-align: center;
+		font-size: 14px;
+		margin-bottom: 10px;
 	}
-	.right-top-not-found {
-		.card-section {
-			display: flex;
-			align-items: center;
-			p {
-				text-align: center;
-				width: 100%;
-			}
-		}
+	.right-section .right-top-section .card-section {
+		min-height: 260px;
 	}
-	p {
-		&.right-bottom-not-found {
+	.right-top-not-found .card-section {
+		display: flex;
+		align-items: center;
+		p {
 			text-align: center;
+			width: 100%;
 		}
+	}
+	p.right-bottom-not-found {
+		text-align: center;
 	}
 }
-.candidates-section {
-	.card-section {
-		text-align: center;
-		.bottom {
-			p {
-				padding: 5px 0px;
-			}
-		}
-		.top {
-			p {
-				padding: 5px 0px;
-			}
-		}
-		p {
-			&.candi-name {
-				font-weight: bold;
-			}
-			&.result {
-				font-weight: bold;
-			}
-			&.status {
-				font-weight: bold;
-				color: red;
-				text-transform: uppercase;
-				font-size: 20px;
-			}
-		}
+.candidates-section .card-section {
+	text-align: center;
+	.bottom p {
+		padding: 5px 0px;
 	}
-	p {
-		&.candidate-title {
-			text-align: center;
-			margin: 25px 0px;
-			font-size: 35px;
-			font-weight: bold;
-		}
+	.top p {
+		padding: 5px 0px;
 	}
-	.card {
-		background-color: #FEF9F5;
+	p.candi-name {
+		font-weight: bold;
 	}
+	p.result {
+		font-weight: bold;
+	}
+	p.status {
+		font-weight: bold;
+		color: red;
+		text-transform: uppercase;
+		font-size: 20px;
+	}
+}
+.candidates-section p.candidate-title {
+	text-align: center;
+	margin: 25px 0px;
+	font-size: 35px;
+	font-weight: bold;
+}
+.candidates-section .card {
+	background-color: #FEF9F5;
 }
 .seatinfo {
 	margin-top: 15px;
@@ -240,7 +225,7 @@ div#root {
 				font-size: 10px;
 			}
 			.title {
-				margin: 0px !important;
+				margin: 0px ;
 				padding: 0px 30px;
 				font-weight: bold;
 			}
@@ -250,10 +235,8 @@ div#root {
 				align-items: center;
 				text-align: left;
 			}
-			.medium-4 {
-				img {
-					height: auto !important;
-				}
+			.medium-4 img {
+				height: auto ;
 			}
 		}
 	}
@@ -263,62 +246,82 @@ div#root {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		.medium-4 {
-			img {
-				max-width: 100%;
-				height: auto !important;
-				display: block;
-				max-height: 400px;
-			}
+		.medium-4 img {
+			max-width: 100%;
+			height: auto ;
+			display: block;
+			max-height: 400px;
 		}
 	}
 }
-img {
-	&.symbol-img {
-		max-width: 50px;
-		height: 100px;
+img.symbol-img {
+	max-width: 50px;
+	height: 100px;
+	mix-blend-mode: multiply;
+}
+.count_numbers .card-section.section1-top {
+	background-color: #FEF9F5;
+	text-align: center;
+	border: 1px solid lightgray;
+	img {
+		max-width: 70px;
+		height: auto;
 		mix-blend-mode: multiply;
 	}
-}
-.count_numbers {
-	.card-section {
-		&.section1-top {
-			background-color: #FEF9F5;
-			text-align: center;
-			border: 1px solid lightgray;
-			img {
-				max-width: 70px;
-				height: auto;
-				mix-blend-mode: multiply;
-			}
-			p {
-				padding: 0;
-				margin: 0;
-			}
-		}
+	p {
+		padding: 0;
+		margin: 0;
 	}
 }
-polygon:hover,
-path:hover,
-polyline:hover {
+polygon:hover, path:hover, polyline:hover {
 	fill: #46c6ff;
 }
 .card-section {
-	padding: 12px !important;
+	padding: 12px ;
 	position: relative;
 }
 .card {
-	margin-bottom: 1rem !important;
-	margin-top: 1rem !important;
-	.card-section {
-		p {
-			font-size: 15px;
-		}
+	margin-bottom: 1rem ;
+	margin-top: 1rem ;
+	border: none ;
+	.card-section p {
+		font-size: 15px;
+	}
+	.card-content .title a {
+		border: none ;
+		font-size: 20px;
+		font-style: normal;
+		color: inherit;
+		font-weight: 500;
+	}
+	.card-content .title {
+		line-height: 24px ;
 	}
 }
-
 @media only screen and (max-width: 767px) {
   .section3 .left-section iframe {
     height: 800px !important;
   }
+
+  .left-section {
+    order: 1;
+  }
+}
+.tip-info {
+	background: #FEF9F5;
+	padding: 1rem;
+	p {
+		text-align: left ;
+		span {
+			color: #25bcff;
+			font-weight: bold;
+		}
+	}
+	h4 {
+		font-weight: bold;
+		line-height: normal;
+	}
+}
+.right-top-section .cell .card {
+	border: 1px solid #e6e6e6 ;
 }
